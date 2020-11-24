@@ -1,0 +1,3 @@
+- Cấu trúc if else, switch case và cách sử dụng.
+- Revisit toán tử 3 ngôi
+- Ví dụ: số chẵn/lẻ, in ra 12 tháng trong năm/cung hoàng đạo,...

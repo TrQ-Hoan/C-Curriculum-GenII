@@ -1,0 +1,3 @@
+-Demo về hàm
+-Nguyên tắc hoạt động, cấu trúc, các ví dụ về hàm
+-Đệ quy: lấy ví dụ giai thừa, fibonacci...

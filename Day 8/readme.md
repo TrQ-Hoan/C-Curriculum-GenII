@@ -1,0 +1,1 @@
+-Tổ chức trước một contest yêu cầu tham gia đủ vào những hôm trước. Ngày thứ 5 chữa và nói thêm những lỗi liên quan

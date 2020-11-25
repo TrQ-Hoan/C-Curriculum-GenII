@@ -1,4 +1,4 @@
-[Đề bài](https://atcoder.jp/contests/ABC100/tasks/abc100_a)
+[A-Happy Birthday](https://atcoder.jp/contests/ABC100/tasks/abc100_a)
 
 # Mô tả
 Sắp đến ngày sinh nhật thứ 16 của E869120 và square1001. 

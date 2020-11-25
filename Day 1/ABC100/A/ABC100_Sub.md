@@ -16,6 +16,7 @@ Liệu E869120 có thể ăn được A miếng bánh và square1001 ăn đượ
 Nếu 2 số A và B thỏa mãn điều kiện bài toán thì in ra:
 
 Yay!
+
 Nếu không thì sẽ in ra:
 
 :(

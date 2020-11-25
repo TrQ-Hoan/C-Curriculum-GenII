@@ -14,14 +14,3 @@
 | Day 7 | Hàm con, đệ quy |
 | Day 8 | Luyện tập chuẩn bị contest cuối kì |
 | End-term | |
-
-## Cách lấy đề bài
-
-### Bài tập được lấy trên [atcoder.jp](https://atcoder.jp/)
-
-vào các thư mục của buổi học học sẽ thấy có folder
-Từ folder đấy thay vào link `https://atcoder.jp/contests/XXXXXX/tasks/XXXXXX_Y`
-
-Trong đó:
-    - `XXXXXX` là tên của contest
-    - `Y` là task trong contest

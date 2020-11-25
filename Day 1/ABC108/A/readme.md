@@ -1,7 +1,7 @@
 [A-Pair](https://atcoder.jp/contests/ABC108/tasks/abc108_a)
 
 # Mô tả
-Cho một số nguyên K. Hãy tìm xem có bao nhiêu cặp số gồm 1 số chẵn và 1 số lẻ (1 <= 2 số đó <= K).
+Cho một số nguyên K. Hãy tìm xem có bao nhiêu cặp số gồm 1 số chẵn và 1 số lẻ (1 ≤ 2 số đó ≤ K).
 Lưu ý: cặp số (3, 2) và (2, 3) được tính là 1 cặp.
 
 # Điều kiện 

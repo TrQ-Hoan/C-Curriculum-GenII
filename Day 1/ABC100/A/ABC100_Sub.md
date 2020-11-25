@@ -6,6 +6,7 @@ Liệu E869120 có thể ăn được A miếng bánh và square1001 ăn đượ
 
 # Điều kiện 
 +) 1 <= A, B <=16
+
 +) A + B <= 16
 
 # Input:

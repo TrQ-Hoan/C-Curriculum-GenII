@@ -12,7 +12,7 @@ K là số nguyên.
 1 số nguyên K.
 
 # Output
-số các cặp thỏa mãn.
+Số các cặp thỏa mãn.
 
 # Ví dụ
 | Input | Output |

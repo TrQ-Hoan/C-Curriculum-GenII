@@ -1,7 +1,7 @@
 [A - Multiple of 2 and N](https://atcoder.jp/contests/ABC102/tasks/abc102_a)
 
 # Mô tả
-Cho số nguyên dương N. Hãy tìm só nguyên dương nhỏ nhất chia hết cho 2 và N.
+Cho số nguyên dương N. Hãy tìm số nguyên dương nhỏ nhất chia hết cho 2 và N.
 
 # Điều kiện 
 N là số nguyên.
@@ -12,6 +12,7 @@ N là số nguyên.
 
 # Output
 1 số thỏa mãn yêu cầu bài toán.
+
 # Ví dụ
 | Input | Output |
 | ----- | ----- |

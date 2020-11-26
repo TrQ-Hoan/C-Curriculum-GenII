@@ -13,7 +13,7 @@ Hãy tìm diện tích đất không chứa đường đi?
 2 số a, b thỏa mãn điều kiện
 
 # Output
-diện tích đất không chứa đường đi
+Diện tích đất không chứa đường đi
 
 # Ví dụ
 | Input | Output |

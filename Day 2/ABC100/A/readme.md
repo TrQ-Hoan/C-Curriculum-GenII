@@ -39,6 +39,7 @@ Nếu không thì sẽ in ra:
 Các bạn có thể ăn miếng bánh theo hình dưới đây:
 ![A](https://img.atcoder.jp/abc100/a7989ac033e6ba86e14078864c20d9c5.png)
 
+-----------------
 | Input | Output |
 | ----- | ----- |
 | 11 4 | :( |

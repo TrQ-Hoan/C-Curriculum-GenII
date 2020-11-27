@@ -18,7 +18,7 @@ Nếu tồn tại số nguyên C thỏa mãn thì in ra "Yes" còn nếu không 
 | ----- | ----- |
 | 3 1 | Yes |
 
-Nếu C=3 thì A*B*C = 1*3*3=9 => thỏa mãn :3
+Nếu C=3 thì A * B * C = 1 * 3 * 3 = 9 => thỏa mãn :3
 
 -------------
 | Input | Output |

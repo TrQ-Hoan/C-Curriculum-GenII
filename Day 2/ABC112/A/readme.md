@@ -10,6 +10,7 @@ Viết chương trình này cho anh ta.
 
 # Điều kiện 
 N là 1 hoặc 2.
+
 A và B là 2 số nguyên thỏa mãn: 1 ≤ A, B ≤ 9.
 
 # Input
@@ -25,7 +26,6 @@ Nếu N=2 thì in ra A+B.
 | Input | Output |
 | ----- | ------ |
 | 1 | `Hello World` | 
-| 2 | 8 |
-| 3 5 |  |
-
+| 2
+3 5| 8 |
 

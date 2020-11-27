@@ -28,12 +28,20 @@ Nếu không thì sẽ in ra:
 | ----- | ----- |
 | 5 4 | Yay! |
 
+2 bạn có thể ăn các miếng bánh theo hình dưới đây:
 ![A](https://img.atcoder.jp/abc100/e87fa456a900ac9ae36671ae8bd5eeea.png)
+
+| ----- | ------ |
+| Input | Output |
+| ----- | ----- |
+| 8 8 | Yay! |
+
+Các bạn có thể ăn miếng bánh theo hình dưới đây:
+![A](https://img.atcoder.jp/abc100/a7989ac033e6ba86e14078864c20d9c5.png)
 
 | Input | Output |
 | ----- | ----- |
 | 11 4 | :( |
 
-| Input | Output |
-| ----- | ----- |
-| 8 8 | Yay! |
+Không có trường hợp nào thỏa mãn :(
+

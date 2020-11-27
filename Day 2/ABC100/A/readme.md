@@ -27,5 +27,13 @@ Nếu không thì sẽ in ra:
 | Input | Output |
 | ----- | ----- |
 | 5 4 | Yay! |
+
+!(https://img.atcoder.jp/abc100/e87fa456a900ac9ae36671ae8bd5eeea.png)
+
+| Input | Output |
+| ----- | ----- |
 | 11 4 | :( |
+
+| Input | Output |
+| ----- | ----- |
 | 8 8 | Yay! |

@@ -31,7 +31,7 @@ Nếu không thì sẽ in ra:
 2 bạn có thể ăn các miếng bánh theo hình dưới đây:
 ![A](https://img.atcoder.jp/abc100/e87fa456a900ac9ae36671ae8bd5eeea.png)
 
-| ----- | ------ |
+------------------
 | Input | Output |
 | ----- | ----- |
 | 8 8 | Yay! |

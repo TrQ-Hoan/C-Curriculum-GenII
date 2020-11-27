@@ -26,6 +26,5 @@ Nếu N=2 thì in ra A+B.
 | Input | Output |
 | ----- | ------ |
 | 1 | `Hello World` | 
-| 2
-3 5| 8 |
+| 2 <br/> 3 5 | 8 |
 

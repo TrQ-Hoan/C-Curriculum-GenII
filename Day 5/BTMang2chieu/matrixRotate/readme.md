@@ -12,6 +12,7 @@ Output:\
 Rotated the input matrix by 90 degrees in anti-clockwise direction.\
 \
 Input:\
+ 4\
  1  2  3  4\ 
  5  6  7  8\
  9 10 11 12\

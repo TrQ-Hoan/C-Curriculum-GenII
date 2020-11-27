@@ -17,16 +17,16 @@ Liệu E869120 có thể ăn được A miếng bánh và square1001 ăn đượ
 # Output
 Nếu 2 số A và B thỏa mãn điều kiện bài toán thì in ra:
 
-Yay!
+`Yay!`
 
 Nếu không thì sẽ in ra:
 
-:(
+`:(`
 
 # Ví dụ
 | Input | Output |
 | ----- | ----- |
-| 5 4 | Yay! |
+| 5 4 | `Yay!` |
 
 2 bạn có thể ăn các miếng bánh theo hình dưới đây:
 ![A](https://img.atcoder.jp/abc100/e87fa456a900ac9ae36671ae8bd5eeea.png)
@@ -34,7 +34,7 @@ Nếu không thì sẽ in ra:
 ------------------
 | Input | Output |
 | ----- | ----- |
-| 8 8 | Yay! |
+| 8 8 | `Yay!` |
 
 Các bạn có thể ăn miếng bánh theo hình dưới đây:
 ![A](https://img.atcoder.jp/abc100/a7989ac033e6ba86e14078864c20d9c5.png)
@@ -42,7 +42,7 @@ Các bạn có thể ăn miếng bánh theo hình dưới đây:
 -----------------
 | Input | Output |
 | ----- | ----- |
-| 11 4 | :( |
+| 11 4 | `:(` |
 
 Không có trường hợp nào thỏa mãn :(
 

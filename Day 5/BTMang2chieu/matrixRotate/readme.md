@@ -6,13 +6,13 @@ Input:\
  4  5  6\
  7  8  9\
 Output:\
- 3  6  9\ 
+ 3  6  9 \ 
  2  5  8 \
  1  4  7 \
 Rotated the input matrix by 90 degrees in anti-clockwise direction.\
 \
 Input:\
- 1  2  3  4\ 
+ 1  2  3  4 \ 
  5  6  7  8 \
  9 10 11 12 \
 13 14 15 16 \

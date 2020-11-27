@@ -12,12 +12,12 @@ Output:\
 Rotated the input matrix by 90 degrees in anti-clockwise direction.\
 \
 Input:\
- 1  2  3  4 \ 
- 5  6  7  8 \
- 9 10 11 12 \
-13 14 15 16 \
+ 1  2  3  4\ 
+ 5  6  7  8\
+ 9 10 11 12\
+13 14 15 16\
 Output:\
- 4  8 12 16 \
- 3  7 11 15 \
- 2  6 10 14 \
+ 4  8 12 16\
+ 3  7 11 15\
+ 2  6 10 14\
  1  5  9 13

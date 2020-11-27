@@ -28,7 +28,7 @@ Nếu không thì sẽ in ra:
 | ----- | ----- |
 | 5 4 | Yay! |
 
-!(https://img.atcoder.jp/abc100/e87fa456a900ac9ae36671ae8bd5eeea.png)
+![A](https://img.atcoder.jp/abc100/e87fa456a900ac9ae36671ae8bd5eeea.png)
 
 | Input | Output |
 | ----- | ----- |

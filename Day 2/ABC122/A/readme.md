@@ -2,6 +2,7 @@
 
 # Mô tả
 Trên hành tinh mang dấu hiệu 15P, các ISPer đã tìm thấy 4 loại Nucleotide bao gồm: A, C, G và T. A sẽ đi kèm với T, C sẽ đi kèm với G.
+
 Hãy nhập vào 1 kí tự rồi in ra kí tự tượng trưng cho loại Nucleoitde đi kèm.
 
 # Input

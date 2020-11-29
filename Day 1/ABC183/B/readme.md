@@ -7,7 +7,7 @@ Takahashi's ball is now at (S<sub><i>x</i></sub>,S<sub><i>y</i></sub>). When he 
 To make the ball hit the *x*-axis exactly once and then pass (G<sub><i>x</i></sub>,G<sub><i>y</i></sub>), where along the *x*-axis should he aim for?
 # Constraints
 * −10<sup><i>6</i></sup> ≤ S<sub><i>x</i></sub>, G<sub><i>y</i></sub>≤ 10<sup><i>6</i></sup>
-* 0 < S<sub><i>y</i></sub>, G<sub><i>y</i></sub> ≤ 10<sub><i>6</i></sub>
+* 0 < S<sub><i>y</i></sub>, G<sub><i>y</i></sub> ≤ 10<sup><i>6</i></sup>
 * S<sub><i>x</i></sub> ≠ G<sub><i>x</i></sub>
 * All values in input are integers.
 # Input

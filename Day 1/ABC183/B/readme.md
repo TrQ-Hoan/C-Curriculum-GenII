@@ -1,5 +1,6 @@
 [B-Biliards](https://atcoder.jp/contests/abc183/tasks/abc183_b)
-# Problem Statement
+
+# Mô tả
 Takahashi is playing billiards on a two-dimensional plane. The *x*-axis functions as a wall; when a ball hits the axis, it will bounce off the axis so that the angle of incidence equals the angle of reflection.
 
 Takahashi's ball is now at (S<sub><i>x</i></sub>,S<sub><i>y</i></sub>). When he strikes the ball aiming for some point, it will roll in a straight line towards that point.

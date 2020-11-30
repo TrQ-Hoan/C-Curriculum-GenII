@@ -1,10 +1,10 @@
 [A-Happy Birthday](https://atcoder.jp/contests/ABC100/tasks/abc100_a)
 
 # Mô tả
-Sắp đến ngày sinh nhật thứ 16 của Cường và Huy. 
+Sắp đến ngày sinh nhật thứ 16 của E869120 và square1001. 
 Ánh có một chiếc bánh hình tròn gồm 16 miếng bánh hình quạt được chia bằng nhau. 
-Cường và Huy sẽ ăn lần lượt từng miếng bánh một theo quy tắc: "Mỗi người không thể ăn 2 miếng bánh có vị trí liền kề nhau". 
-Liệu Cường có thể ăn được A miếng bánh và Huy ăn được B miếng bánh theo đúng quy tắc đã đề ra không?
+E869120 và square1001 sẽ ăn lần lượt từng miếng bánh một theo quy tắc: "Mỗi người không thể ăn 2 miếng bánh có vị trí liền kề nhau". 
+Liệu E869120 có thể ăn được A miếng bánh và square1001 ăn được B miếng bánh theo đúng quy tắc đã đề ra không?
 
 # Điều kiện 
 +) 1 <= A, B <=16
@@ -29,7 +29,7 @@ Nếu không thì sẽ in ra:
 | 5 4 | `Yay!` |
 
 2 bạn có thể ăn các miếng bánh theo hình dưới đây:
-![A](https://img.atcoder.jp/abc100/e87fa456a900ac9ae36671ae8bd5eeea.png)
+![alt text](https://img.atcoder.jp/abc100/e87fa456a900ac9ae36671ae8bd5eeea.png)
 
 ------------------
 | Input | Output |
@@ -37,7 +37,7 @@ Nếu không thì sẽ in ra:
 | 8 8 | `Yay!` |
 
 Các bạn có thể ăn miếng bánh theo hình dưới đây:
-![A](https://img.atcoder.jp/abc100/a7989ac033e6ba86e14078864c20d9c5.png)
+![alt text](https://img.atcoder.jp/abc100/a7989ac033e6ba86e14078864c20d9c5.png)
 
 -----------------
 | Input | Output |

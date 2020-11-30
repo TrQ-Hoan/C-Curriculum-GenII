@@ -1,6 +1,6 @@
 [A-Calc](https://atcoder.jp/contests/abc172/tasks/abc172_a)
 
-# Problem Statement
+# Mô tả
 Given an integer a
 as input, print the value a + a&sup2; + a&sup3;.  
   

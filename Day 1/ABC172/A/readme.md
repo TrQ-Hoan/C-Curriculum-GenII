@@ -2,9 +2,9 @@
 
 # Mô tả
 Cho số nguyên a
-in ra giá trị của a + a&sup2; + a&sup3.  
+in ra giá trị của a + a&sup2; + a&sup3;.  
   
-# Constraints  
+# Điều kiện  
 * 1 ≤ a ≤10
 * *a* là số nguyên.
 
@@ -12,9 +12,9 @@ in ra giá trị của a + a&sup2; + a&sup3.
 1 số nguyên dương a.
 
 # Output
-Print the value a + a&sup2; + a&sup3; as an integer.
+In ra giá trị của biểu thức a + a&sup2; + a&sup3;.
 
-# Sample
+# Ví dụ
 | Input | Output |
 |-|-|
 |2|14|

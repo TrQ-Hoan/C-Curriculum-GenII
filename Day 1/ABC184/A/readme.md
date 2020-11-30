@@ -1,21 +1,22 @@
 [A-Determinant](https://atcoder.jp/contests/abc184/tasks/abc184_a)<br/>
-# Problem Statement
+# Mô tả
 
-Given is a 2 x 2 matrix A <br/>| *a*  *b* |<br/>| *c*  *d* |  
-The determinant of A can be found as *ad*−*bc*.
-Find it.
-# Constraints
-* All values in input are integers.
-* −100 ≤ *a,b,c,d* ≤ 100
+Cho A là ma trận 2 x 2 <br/>| *a  b* |<br/>| *c  d* |  
+Định thức của A được tính bằng công thức *ad* − *bc*.
+
+Tìm định thức của ma trận A.
+# Điều kiện
+* **Tất cả giá trị được đưa vào đều là số nguyên.**
+* **−100 ≤ *a, b, c, d* ≤ 100**
 # Input 
-Input is given from Standard Input in the following format:
+Input được đưa vào dưới dạng:
 ```
 a b
 c d
 ```
 # Output
-Print the answer as an integer.
-# Sample
+In ra đáp án là một số nguyên.
+# Ví d
 |Input|Output|
 |-|-|
 |1 2<br/>3 4|-2|

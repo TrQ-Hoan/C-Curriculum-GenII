@@ -18,8 +18,9 @@ Số j thỏa mãn
 | Input | Output |
 | ----- | -----  |
 | 4 2   | 3      |
-<br>
+
 Toa thứ 2 từ đầu tàu là toa thứ 3 từ đuôi tàu tính lên
+<br>
 
 | Input | Output |
 | ----- | -----  |

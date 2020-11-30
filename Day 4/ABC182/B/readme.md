@@ -23,3 +23,4 @@ Print an integer with the greatest GCD-ness among the integers greater than or e
 |-|-|
 |3<br/>3 12 7|3|
 |5<br/>8 9 18 90 72|9|
+|5<br/>1000 1000 1000 1000 1000|1000|

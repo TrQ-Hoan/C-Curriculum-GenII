@@ -17,7 +17,7 @@ Input is given from Standard Input in the following format:
 Sx Sy Gx Gy
 ```
 # Output
-Let (*x*,0) be the point Takahashi should aim for. Print *x* with 10 fractional digits.<sup>−6</sup>.
+Let (*x*,0) be the point Takahashi should aim for. Print *x* with 10 fractional digits.
 # Sample
 |Input|Output|
 |-----|----- |

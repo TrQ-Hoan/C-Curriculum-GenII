@@ -22,9 +22,8 @@ Print the amount of change as an integer.
 | Input | Output |
 |-----  |-----   |
 |1900   |100     |
+
 We will use two 1000-yen bills to pay the price and receive 100 yen in change.
-<br>
-<br>
 
 | Input | Output |
 |-----  |-----   |

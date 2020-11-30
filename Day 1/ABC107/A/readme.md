@@ -1,7 +1,7 @@
 [A-Train](https://atcoder.jp/contests/ABC107/tasks/abc107_a)
 
 # Mô tả
-Một đoàn tàu gồm có N toa
+Một đoàn tàu gồm có N toa\
 Bạn sẽ được cho một số nguyên i. Hãy tìm số j tương ứng sao cho câu sau đúng:  
 `Toa thứ i tính từ đầu tàu là toa thứ j tính từ đuôi tàu lên.`
 

@@ -26,14 +26,14 @@ Gọi (*x*, 0) là điểm mà Takahashi nên nhắm tới. In ra *x* với 10 c
 Như hình ảnh dưới, chúng ta có thể khiến bi lăn qua điểm (7, 2) bằng cách nhắm nó và đánh vào điểm (3, 0).
 ![alt text](https://img.atcoder.jp/ghi/c9595d59f1139b808d4cf3d31d6b48ee.png)
 <br>
-----------
+***
 |Input|Output|
 |-----|----- |
 |1 1 3 2|1.6666666667|
 
 ![alt text](https://img.atcoder.jp/ghi/4f2c808fddc9bb349999f8969996ebb9.png)
 <br>
-----------
+***
 |Input|Output|
 |-----|----- |
 |-9 99 -999 9999|-18.7058823529|

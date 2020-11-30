@@ -21,4 +21,4 @@ Print the minimum number of characters in S that need to be changed.
 |Input|Output|
 |-|-|
 |cabacc<br/>abc|1|
-|codeforces<br/atcoder>|6|
+|codeforces<br/>atcoder|6|

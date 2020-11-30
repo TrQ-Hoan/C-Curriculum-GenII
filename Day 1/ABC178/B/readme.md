@@ -1,6 +1,6 @@
 [B-Product Max](https://atcoder.jp/contests/abc178/tasks/abc178_b)
 # Mô tả
-Cho các số nguyên *a*, *b*, *c* và *d*. Nếu *x*, *y* là số nguyên và thoả mãn *a* ≤ *x* ≤ *b*,c* ≤ *y* ≤ *d* thì giá trị lớn nhất có thể của *x* × *y* là?
+Cho các số nguyên *a*, *b*, *c* và *d*. Nếu *x*, *y* là số nguyên và thoả mãn *a* ≤ *x* ≤ *b*, *c* ≤ *y* ≤ *d* thì giá trị lớn nhất có thể của *x* × *y* là?
 # Điều kiện
 * −10<sup>9</sup> ≤ *a* ≤ *b* ≤ 10<sup>9</sup>
 * −10<sup>9</sup> ≤ *c* ≤ *d* ≤ 10<sup>9</sup>\

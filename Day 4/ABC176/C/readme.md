@@ -8,8 +8,8 @@ Condition: Nobody in front of the person is taller than the person. Here, the he
   
 Find the minimum total height of the stools needed to meet this goal.
 # Constraints
-* 1 ≤ *N* ≤ 2×10<sub>5</sub>
-* 1 ≤ A<sub>i</sub>≤ 10<sub>9</sub>
+* 1 ≤ *N* ≤ 2×10<sup>5</sup>
+* 1 ≤ A<sub>i</sub>≤ 10<sup>9</sup>
 * All values in input are integers.
 # Input
 Input is given from Standard Input in the following format:

@@ -1,17 +1,17 @@
 [A-Not](https://atcoder.jp/contests/abc178/tasks/abc178_a)
-# Problem Statement
-Given is an integer x that is greater than or equal to 0, and less than or equal to 1. Output 1 if *x* is equal to 0, or 0 if *x* is equal to 1.
-# Constraints
+# Mô tả
+Cho số nguyên *x* lớn hơn hoặc bằng 0, nhỏ hơn hoặc bằng 1. Output đưa ra 1 nếu *x* bằng 0, hoặc 0 nếu *x* bằng 1.
+# Điều kiện
 * 0 ≤ *x* ≤ 1
-* *x* is an integer
+* *x* là một số nguyên
 # Input
-Input is given from Standard Input in the following format:
+Input được đưa vào dưới dạng:
 ```
 x
 ```
 # Output
-Print 1 if *x* is equal to 0, or 0 if *x* is equal to 1.
-# Sample
+In ra 1 nếu *x* bằng 0, hoặc 0 nếu *x* bằng 1.
+# Ví dụ
 |Input|Output|
 |-|-|
 |1|0|

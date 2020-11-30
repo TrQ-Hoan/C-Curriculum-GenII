@@ -21,7 +21,18 @@ Let (*x*,0) be the point Takahashi should aim for. Print *x*.
 Your output will be considered correct when its absolute or relative error from our answer is at most 10<sup>−6</sup>.
 # Sample
 |Input|Output|
-|-|-|
+|-----|----- |
 |1 1 7 2|3.0000000000|
+
+As shown below, we can make the ball pass (7,2) by striking it aiming for (3,0).
+![alt text](https://img.atcoder.jp/ghi/c9595d59f1139b808d4cf3d31d6b48ee.png)
+<br>
+|Input|Output|
+|-----|----- |
 |1 1 3 2|1.6666666667|
+
+![alt text](https://img.atcoder.jp/ghi/4f2c808fddc9bb349999f8969996ebb9.png)
+<br>
+|Input|Output|
+|-----|----- |
 |-9 99 -999 9999|-18.7058823529|

@@ -17,7 +17,7 @@ In ra đáp án.
 |-----                      |-----              |
 |1 2 1 1                    |2                  |
 
-<i>Nếu x=1 và y=1 thì x×y=1. Nếu x=2 và y=1 then x×y=2. Vì vậy, đáp án là 2.</i>
+<i>Nếu x=1 và y=1 thì x×y=1. Nếu x=2 và y=1 thì x×y=2. Vì vậy, đáp án là 2.</i>
 <br>
 | Input                     | Output            |
 |-----                      |-----              |

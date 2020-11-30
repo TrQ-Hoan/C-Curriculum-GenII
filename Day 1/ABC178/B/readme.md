@@ -1,29 +1,29 @@
 [B-Product Max](https://atcoder.jp/contests/abc178/tasks/abc178_b)
-# Problem Statement
-Given are integers *a*,*b*,*c* and *d*. If *x* and *y* are integers and *a* ≤ *x* ≤ *b* and *c* ≤ *y* ≤ *d* hold, what is the maximum possible value of *x* × *y*?
-# Constraints  
+# Mô tả
+Cho các số nguyên *a*, *b*, *c* và *d*. Nếu *x*, *y* là số nguyên và thoả mãn *a* ≤ *x* ≤ *b*,c* ≤ *y* ≤ *d* thì giá trị lớn nhất có thể của *x* × *y* là?
+# Điều kiện
 * −10<sup>9</sup> ≤ *a* ≤ *b* ≤ 10<sup>9</sup>
 * −10<sup>9</sup> ≤ *c* ≤ *d* ≤ 10<sup>9</sup>\
-All values in input are integers.
+Tất cả giá trị trong input đều là số nguyên.
 # Input
-Input is given from Standard Input in the following format:
+Input được đưa vào dưới dạng:
 ```
 a b c d
 ```
 # Output
-Print the answer.
-# Sample
+In ra đáp án.
+# Ví dụ
 | Input                     | Output            |
 |-----                      |-----              |
 |1 2 1 1                    |2                  |
 
-<i>If x=1 and y=1 then x×y=1. If x=2 and y=1 then x×y=2. Therefore, the answer is 2.</i>
+<i>Nếu x=1 và y=1 thì x×y=1. Nếu x=2 và y=1 then x×y=2. Vì vậy, đáp án là 2.</i>
 <br>
 | Input                     | Output            |
 |-----                      |-----              |
 |3 5 -4 -2                  |-6                 |
 
-<i>The answer can be negative.</i>
+<i>Đáp án có thể là một số âm.</i>
 <br>
 | Input                     | Output            |
 |-----                      |-----              |

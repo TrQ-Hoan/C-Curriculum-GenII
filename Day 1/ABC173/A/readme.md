@@ -15,7 +15,7 @@ Input is given from Standard Input in the following format:
 ```
 N
 ```
-</b>></i>
+</b></i>
 # Output
 Print the amount of change as an integer.
 # Sample

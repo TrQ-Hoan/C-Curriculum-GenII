@@ -13,8 +13,18 @@ a b c d
 # Output
 Print the answer.
 # Sample
-| Input | Output |
-|-|-|
-|1 2 1 1|2|
-|3 5 -4 -2|-6|
+| Input                     | Output            |
+|-----                      |-----              |
+|1 2 1 1                    |2                  |
+
+<i>If x=1 and y=1 then x×y=1. If x=2 and y=1 then x×y=2. Therefore, the answer is 2.<i/>
+<br>
+| Input                     | Output            |
+|-----                      |-----              |
+|3 5 -4 -2                  |-6                 |
+
+The answer can be negative.
+<br>
+| Input                     | Output            |
+|-----                      |-----              |
 |-1000000000 0 -1000000000 0|1000000000000000000|

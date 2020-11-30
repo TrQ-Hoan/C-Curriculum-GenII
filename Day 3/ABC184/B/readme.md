@@ -26,5 +26,12 @@ Print the number of points Takahashi will have in the end.
 |Input|Output|
 |-|-|
 |3 0<br/>xox|0|
+  Initially, he has 0 points.\
+He answers the first question incorrectly but loses nothing because he has no point.\
+Then, he answers the second question correctly, gains 1 point, and now has 1 point.\
+Finally, he answers the third question incorrectly, loses 1 point, and now has 0 points.\
+Thus, he has 0 points in the end. We should print 0.\
+|Input|Output|
+|-|-|
 |20 199999<br/>oooooooooxoooooooooo|200017|
 |20 10<br/>xxxxxxxxxxxxxxxxxxxx|0|

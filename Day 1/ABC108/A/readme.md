@@ -21,6 +21,7 @@ Số các cặp thỏa mãn.
 
 Hai cặp có thể chọn được là (2,1) và (2,3)
 <br>
+<br>
 | Input | Output |
 | ----- | ----- |
 | 6     | 9     |

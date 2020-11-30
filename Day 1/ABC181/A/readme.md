@@ -1,19 +1,21 @@
 [A-Heavy Rotation](https://atcoder.jp/contests/abc181/tasks/abc181_a)
-# Problem Statement
-Takahashi is wearing white now.
-He wears black on the day after he wears white, and he wears white on the day after he wears black.
-What color will he wear *N* days later?
-# Constraints
-* *N* is an integer.
+
+# Mô tả
+Takahashi hiện tại đang mặc đồ màu trắng.
+Anh ấy sẽ mặc đồ màu đen ngay sau hôm mặc đồ màu trắng, và mặc đồ màu trắng ngay sau hôm mặc đồ màu đen.
+Vậy anh ta sẽ mặc đồ gì vào *N* ngày sau?
+
+# Điều kiện
+* *N* là số nguyên.
 * 1 ≤ *N* ≤ 30
+
 # Input
-Input is given from Standard Input in the following format:
-```
-N
-```
+1 số nguyên *N*.
+
 # Output
-If he will wear white *N* days later, print White; if he will wear black, print Black.
-# Sample
+Nếu ngày hôm đó nếu anh t mặc đồ trắng thì in ra `White` còn nếu mặc đồ đen thì in ra `Black`.
+
+# Ví dụ
 |Input|Outut|
 |-|-|
 |2|White|

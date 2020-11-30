@@ -20,7 +20,7 @@ Số j thỏa mãn
 | 4 2   | 3      |
 <br>
 Toa thứ 2 từ đầu tàu là toa thứ 3 từ đuôi tàu tính lên
-<br><br>
+<br/>
 | Input | Output |
 | ----- | -----  |
 | 1 1   | 1      |

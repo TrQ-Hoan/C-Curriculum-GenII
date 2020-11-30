@@ -23,7 +23,7 @@ Print the answer.
 |-----                      |-----              |
 |3 5 -4 -2                  |-6                 |
 
-The answer can be negative.
+<i>The answer can be negative.</i>
 <br>
 | Input                     | Output            |
 |-----                      |-----              |

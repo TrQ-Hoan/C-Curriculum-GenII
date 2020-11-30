@@ -14,7 +14,7 @@ Tìm con đường mà tốn ít chi phí nhất mà không tốn quá thời gi
 * **1 ≤ *T* ≤ 1000**
 * **1 ≤ *t<sub><i>i</i></sub>* ≤ 1000**
 * **1 ≤ *c<sub><i>i</i></sub>* ≤ 1000**
-* Các cặp ***(c<sub><i>i</i></sub>,t<sub><i>i</i></sub>)*** đôi một khác nhau.
+* Các cặp ***(c<sub><i>i</i></sub>, t<sub><i>i</i></sub>)*** đôi một khác nhau.
 
 # Input
 Input được đưa vào dưới dạng sau:

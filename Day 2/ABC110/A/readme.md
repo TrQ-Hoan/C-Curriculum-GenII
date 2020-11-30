@@ -22,7 +22,7 @@ Bạn quyết định cung cấp tiền tiêu vặt cho lũ trẻ thông qua k�
 | ----- | ------ |
 | 1 5 2 | 53 | 
 
-Chúng ta có 3 tấm bảng `1`,`5`,`2`. Sau khi sắp xếp và để `+` vào thì ta sẽ được `5``2` `+` `1` = 53.
+Chúng ta có 3 tấm bảng `1`,`5`,`2`. Sau khi sắp xếp và để `+` vào thì ta sẽ được `52` `+` `1` = 53.
 
 ---------------------
 | Input | Output |

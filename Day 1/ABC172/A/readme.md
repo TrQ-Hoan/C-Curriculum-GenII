@@ -9,10 +9,8 @@ in ra giá trị của a + a&sup2; + a&sup3.
 * *a* là số nguyên.
 
 # Input
-Input is given from Standard Input in the following format:
-```
-a
-```
+1 số nguyên dương a.
+
 # Output
 Print the value a + a&sup2; + a&sup3; as an integer.
 

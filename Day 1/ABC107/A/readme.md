@@ -1,9 +1,9 @@
 [A-Train](https://atcoder.jp/contests/ABC107/tasks/abc107_a)
 
 # Mô tả
-Do đang tắc đường nên có 1 hàng dài gồm N chiếc xe ô tô đang xếp sau 1 chiếc xe tải.
+Một đoàn tàu gồm có N toa
 Bạn sẽ được cho một số nguyên i. Hãy tìm số j tương ứng sao cho câu sau đúng:  
-`Chiếc ô tô thứ i đứng trước xe tải là chiếc xe thứ j từ cuối hàng trở lên`
+`Toa thứ i tính từ đầu tàu là toa thứ j tính từ đuôi tàu lên.`
 
 # Điều kiện 
 1 ≤ i ≤ N ≤ 100

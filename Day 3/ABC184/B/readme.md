@@ -33,6 +33,7 @@ Then, he answers the second question correctly, gains 1 point, and now has 1 poi
 Finally, he answers the third question incorrectly, loses 1 point, and now has 0 points.\
 Thus, he has 0 points in the end. We should print 0.
 <br>
+<br>
 |Input|Output|
 |-----|-----|
 |20 199999<br/>oooooooooxoooooooooo|200017|

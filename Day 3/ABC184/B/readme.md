@@ -1,4 +1,4 @@
-[]()
+[B-Quizzes](https://atcoder.jp/contests/abc184/tasks/abc184_b)
 # Problem Statement
 Takahashi will answer *N* quiz questions.  
   

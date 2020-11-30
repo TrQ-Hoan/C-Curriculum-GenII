@@ -1,8 +1,10 @@
 [B-Trapezoid Sum](https://atcoder.jp/contests/abc181/tasks/abc181_b)
 # Problem Statement
-We have a blackboard with nothing written on it. Takahashi will do *N* operations to write integers on it.
-In the *i*-th operation, he will write each integer from A<sub><i>i</i></sub> through B<sub><i>i</i></sub> once, for a total of B<sub><i>i</i></sub>−A<sub><i>i</i></sub>+1 integers.
-Find the sum of the integers written on the blackboard after the *N* operations.
+We have a blackboard with nothing written on it. Takahashi will do *N* operations to write integers on it.  
+  
+In the *i*-th operation, he will write each integer from A<sub><i>i</i></sub> through B<sub><i>i</i></sub> once, for a total of B<sub><i>i</i></sub>−A<sub><i>i</i></sub>+1 integers.  
+  
+Find the sum of the integers written on the blackboard after the *N* operations.  
 # Constraints
 * All values in input are integers.
 * 1 ≤ *N* ≤105

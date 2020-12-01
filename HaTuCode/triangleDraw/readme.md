@@ -4,9 +4,9 @@ Input: Một số nguyên 3 <= x <= 100\
 Output: Hình tam giác
 
 # VD
-input:\
+## input:
 3\
-output:
+## output:
 ```
 ***
 **

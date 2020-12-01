@@ -20,11 +20,11 @@ R
 ```
 
 # Output
-In ra cuộc thi mà Phương sẽ được đánh giá (ABC, ARC hoặc AGC)
+In ra cuộc thi mà Phương sẽ được đánh giá (`ABC`, `ARC` hoặc `AGC`)
 
 # Ví dụ
 | Input | Output |
 |-|-|
-|1199|ABC|
-|1200|ARC|
-|4208|AGC|
+|1199|`ABC`|
+|1200|`ARC`|
+|4208|`AGC`|

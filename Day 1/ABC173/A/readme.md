@@ -10,7 +10,6 @@ Vì K13n_M1dd13 quá nghèo nên trong ví chỉ có toàn tờ 1.000 đồng :(
 
 # Input
 Input sẽ có dạng:
-<><b>
 ```
 N
 ```

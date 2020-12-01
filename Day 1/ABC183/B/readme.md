@@ -1,9 +1,9 @@
 [B-Biliards](https://atcoder.jp/contests/abc183/tasks/abc183_b)
 
 # Mô tả
-Takahashi đang chơi Bi-a trên một mặt phẳng 2 chiều. Coi trục *x* là bức tường; khi mà bi đập vào trục, nó sẽ bật lại với một góc phản xạ bằng với góc tới.
+Chiếp Chiếp đang chơi Bi-a trên một mặt phẳng 2 chiều. Coi trục *x* là bức tường; khi mà bi đập vào trục, nó sẽ bật lại với một góc phản xạ bằng với góc tới.
 
-Bi của Takahashi giờ đang ở toạ độ (S<sub><i>x</i></sub>, S<sub><i>y</i></sub>). Khi anh ấy đánh bi, nó sẽ lăn theo một đường thẳng tới điểm mà anh ta đã ngắm trước đó.
+Bi của Chiếp Chiếp giờ đang ở toạ độ (S<sub><i>x</i></sub>, S<sub><i>y</i></sub>). Khi anh ấy đánh bi, nó sẽ lăn theo một đường thẳng tới điểm mà anh ta đã ngắm trước đó.
 
 Để bi đánh trúng trục *x* chính xác một lần rồi đi qua (G<sub><i>x</i></sub>, G<sub><i>y</i></sub>), anh ấy phải nhắm vào điểm nào trên trục *x* để đánh?
 # Điều kiện

@@ -12,7 +12,10 @@ Liệu Lươn có thể ăn được A miếng bánh và Dừa ăn được B mi
 +) A + B <= 16
 
 # Input:
-2 số nguyên A và B.
+Input có dạng:
+```
+A B
+```
 
 # Output
 Nếu 2 số A và B thỏa mãn điều kiện bài toán thì in ra:

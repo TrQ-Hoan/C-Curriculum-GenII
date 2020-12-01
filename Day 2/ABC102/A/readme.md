@@ -8,7 +8,10 @@ N là số nguyên.
 1 ≤ N ≤ 10^9
 
 # Input:
-1 số nguyên N.
+Input có dạng:
+```
+N
+```
 
 # Output
 1 số thỏa mãn yêu cầu bài toán.

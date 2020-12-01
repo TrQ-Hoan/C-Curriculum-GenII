@@ -5,4 +5,7 @@ Output: Hình nhữ nhật rỗng
 Ví dụ:
 |input|	output|
 |---|---|
-|4 5|	*****<br>*   *<br>*   *<br>*****|
+|4 5|	<p>*****
+*   *
+*   *
+*****</p>|

@@ -1,12 +1,14 @@
-đổi chỗ 2 cột của ma trận n*m\
-giới hạn giống các bài khác\
-input \
+## Đề bài
+Đổi chỗ 2 cột của ma trận A cấp n\*m\
+1 ≤ n, m ≤ 100\
+0 ≤ A[i][j] ≤ 100000
+### Input
 3 4\
 1 4\
 1 2 3 4\
 5 6 7 8\
-9 10 11 12\
-output\
+9 10 11 12
+### Output
 4 2 3 1\
 8 5 7 5\
 12 10 11 9

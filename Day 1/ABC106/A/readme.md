@@ -7,7 +7,7 @@ Một mảnh vườn có chiều dài a và chiều rộng là b. John muốn x�
 Hãy tìm diện tích đất không chứa đường đi?
 
 # Điều kiện 
-+) 2 <= a, b <= 100
++) 2 ≤ a, b ≤ 100
 
 # Input:
 2 số a, b thỏa mãn điều kiện

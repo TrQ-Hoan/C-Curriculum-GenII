@@ -1,0 +1,84 @@
+Bài 1: Vẽ hình chữ nhật rỗng
+Nhập 2 số nguyên dương m,n. Xuất ra màn hình hình chữ nhật rỗng bằng những kí tự * có m hàng và n cột.
+Input: 2 số nguyên m,n (2 <= n,m <= 1000)
+Output: Hình nhữ nhật rỗng
+
+Ví dụ:
+input	output
+4 5	*****
+	*   *
+	*   *
+	*****
+===================================================================
+Bài 2: Vẽ tam giác
+Nhập vào một số nguyên x. Vẽ hình tam giác dấu * có dạng như ví dụ dưới đây.
+Input: Một số nguyên 3 <= x <= 100
+Output: Hình tam giác
+
+Ví dụ:
+input:
+3
+output:
+***
+**
+*
+===================================================================
+Bài 3: Vẽ hình thoi
+Nhập vào một số nguyên x. Vẽ hình thoi dấu * có dạng như ví dụ dưới đây.
+Input: Một số nguyên x 3 <= x <= 100
+Output: Hình thoi
+
+Ví dụ:
+input
+5
+output
+~~~~*
+~~~***
+~~*****
+~*******
+*********
+~*******
+~~*****
+~~~***
+~~~~*
+===================================================================
+Bài 4: Số hoàn hảo
+Một số được gọi là hoàn hảo nếu tổng các ước nhỏ hơn nó bằng chính nó.
+chẳng hạn: 12 là số hoàn hảo vì có các ước 1+2+3+6=12. 
+	18 không là số hoàn hảo vì 18 có tổng các ước 1+2+3+6+9=21
+Tìm tất cả các số hoàn hảo có trong khoảng m,n cho trước.
+Input: 2 số nguyên m,n (0 < m < n < 10000)
+Output: Các số hoàn hảo
+
+Ví dụ:
+input
+1 20
+output
+12
+===================================================================
+Bài 5: Số armstrong
+Số armstrong là số mà từng chữ số trong số đó lũy thừa với số chữ số của nó bằng chính nó. 
+Ví dụ:
+137 != 1^3 + 3^3 + 7^3 => 137 không phải là số armstrong
+153 = 1^3 + 5^3 + 3^3 => 153 là số armstrong
+Tìm và đưa ra màn hình tất cả các số armstrong có trong đoạn a,b
+Input: 2 số nguyên a,b (0 < a < b < 10^4)
+Output:Các số armstrong
+
+Test 
+input
+100 500
+output
+153 370 371 407
+===================================================================
+Bài 6:Dec-->Bin
+Cho số nguyên n. In ra màn hình dạng nhị phân của số thập phân n đã cho
+Input: số nguyên n (0 < n < 10^6)
+Output: nhị phân của n
+
+Test
+input
+20
+outpot
+10100
+===================================================================

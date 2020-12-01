@@ -7,8 +7,8 @@ In the *i*-th operation, he will write each integer from A<sub><i>i</i></sub> th
 Find the sum of the integers written on the blackboard after the *N* operations.  
 # Constraints
 * All values in input are integers.
-* 1 ≤ *N* ≤105
-* 1≤ A<sub><i>i</i></sub> ≤ B<sub><i>i</i></sub> ≤10<sub><i>6</i></sub>
+* 1 ≤ *N* ≤ 10<sup><i>5</i></sup>
+* 1≤ A<sub><i>i</i></sub> ≤ B<sub><i>i</i></sub> ≤10<sup><i>6</i></sup>
 
 # Input
 Input is given from Standard Input in the following format:

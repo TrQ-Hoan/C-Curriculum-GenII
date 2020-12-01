@@ -3,11 +3,11 @@ Input: 2 số nguyên m,n (2 <= n,m <= 1000)
 Output: Hình nhữ nhật rỗng
 
 Ví dụ:
-|input|	output|
-|---|---|
-|4 5|
+### Input
+4 5
+### Output
 ```
 *****
 *   *
 *****
-``` |
+```

@@ -1,7 +1,7 @@
 [A-Heavy Rotation](https://atcoder.jp/contests/abc181/tasks/abc181_a)
 
 # Mô tả
-Takahashi hiện tại đang mặc đồ màu trắng.
+C4t hiện tại đang mặc đồ màu trắng.
 Anh ấy sẽ mặc đồ màu đen ngay sau hôm mặc đồ màu trắng, và mặc đồ màu trắng ngay sau hôm mặc đồ màu đen.
 Vậy anh ta sẽ mặc đồ gì vào *N* ngày sau?
 

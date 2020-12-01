@@ -23,6 +23,7 @@ In ra số thỏa mãn.
 | Input | Output |
 |-----  |-----   |
 |1900   |100     |
+
 Mình sẽ dùng 2.000 đồng và sẽ nhận lại được 100 đồng tiền thối.
 <br>
 | Input | Output |

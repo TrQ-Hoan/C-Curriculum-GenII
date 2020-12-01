@@ -17,7 +17,7 @@ Input được đưa vào dưới dạng
 Sx Sy Gx Gy
 ```
 # Output
-Gọi (*x*, 0) là điểm mà Takahashi nên nhắm tới. In ra *x* với 10 chữ số sau dấu phẩy.
+Gọi (*x*, 0) là điểm mà Chiếp Chiếp nên nhắm tới. In ra *x* với 10 chữ số sau dấu phẩy.
 # Ví dụ
 |Input|Output|
 |-----|----- |

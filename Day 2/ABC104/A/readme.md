@@ -15,9 +15,9 @@ Xếp hạng của Phương trên AtCode là `R`. Cuộc thi tiếp theo đánh 
 
 # Input 
 Input có dạng: 
-``
+```
 R
-``
+```
 
 # Output
 In ra cuộc thi mà Phương sẽ được đánh giá (ABC, ARC hoặc AGC)

@@ -1,32 +1,32 @@
 [A-Payment](https://atcoder.jp/contests/abc173/tasks/abc173_a)
-# Problem Statement
-We will buy a product for *<b>N</b>* yen (the currency of Japan) at a shop.
 
-If we use only 1000-yen bills to pay the price, how much change will we receive?
+# Mô tả
+K13n_M1dd13 muốn mua một một món hàng có giá N đồng.
+Vì K13n_M1dd13 quá nghèo nên trong ví chỉ có toàn tờ 1.000 đồng :((( . Các bạn hãy tính xem số tiền thối lại mà anh ta sẽ nhận được sau khi mua hàng. 
 
-Assume we use the minimum number of bills required.
-
-# Constraints
+# Điều kiện
 * 1 ≤ *<b>N</b>* ≤ 10000
-* *<b>N</b>* is an integer.  
+* *<b>N</b>* là số nguyên.  
+
 # Input
-Input is given from Standard Input in the following format:
+Input sẽ có dạng:
 <i><b>
 ```
 N
 ```
 </b></i>
+
 # Output
-Print the amount of change as an integer.
-# Sample
+In ra số thỏa mãn.
+
+# Ví dụ
 | Input | Output |
 |-----  |-----   |
 |1900   |100     |
-
-We will use two 1000-yen bills to pay the price and receive 100 yen in change.
+Mình sẽ dùng 2.000 đồng và sẽ nhận lại được 100 đồng tiền thối.
 <br>
 | Input | Output |
 |-----  |-----   |
 |3000   |0       |
 
-We can pay the exact price.
+

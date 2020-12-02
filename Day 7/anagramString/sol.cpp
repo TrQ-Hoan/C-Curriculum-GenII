@@ -13,7 +13,7 @@
 int checkAnagram(char *str1, char *str2);
 int main()
 {
-    char str1[100], str2[100];
+    char str1[101], str2[101];
     fgets(str1, sizeof str1, stdin);
     fgets(str2, sizeof str2, stdin);
  

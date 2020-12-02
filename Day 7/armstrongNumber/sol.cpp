@@ -31,10 +31,12 @@ int main()
 {
     int a,b;
     cin >> a >> b;
+    bool flag = false;
     for (int i=a; i <= b; i++){
         if (IsArmstrong(i) == true)
-          cout << i << " ";
+          flag=true,cout << i << " ";
     }
+    if (!flag) cout << "None\n";
     return 0;
     
 }

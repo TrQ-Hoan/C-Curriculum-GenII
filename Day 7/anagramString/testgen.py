@@ -1,10 +1,14 @@
 from random import randint as ri
+from random import choice
 from subprocess import call
 from zipfile import ZipFile as zf
-import os
+import os, string
 
 def inputGen(f):
-    f.write("%d %d\n"%(ri(2,1000), ri(2,1000)))
+    letters = string.ascii_letters
+    s1 = "".join(choice(letters) for _ in range(ri(1,99)))
+    s2 = "".join(choice(letters) for _ in range(ri(1,99)))
+    f.write("%s %s\n"%(s1,s2))
     f.close()
 
 def outputGen(fi, fo):

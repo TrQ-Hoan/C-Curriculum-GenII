@@ -4,7 +4,9 @@ from zipfile import ZipFile as zf
 import os
 
 def inputGen(f):
-    f.write("%d %d\n"%(ri(2,1000), ri(2,1000)))
+    a = ri (10, 999)
+    b = ri (0, a)
+    f.write("%d %d\n"%(b,a))
     f.close()
 
 def outputGen(fi, fo):

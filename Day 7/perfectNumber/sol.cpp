@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include<iostream>
+using namespace std;
 bool check(int n){
     int sum = 0;//khai bao biem sum
     for(int i=1;i<=n/2;i++){
@@ -11,9 +12,11 @@ bool check(int n){
 int main(){
     int m,n;
     cin >> m >> n;
+    bool flag = false;
     for (int i=m; i <= n; i++){
         if(check(i) )
-            cout << i <<  " ";
+            flag=true,cout << i <<  " ";
     }
+    if (!flag) cout << "None\n";
     return 0;
 }

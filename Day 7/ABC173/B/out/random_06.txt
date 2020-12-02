@@ -1,4 +1,0 @@
-AC x 37375
-WA x 0
-TLE x 37532
-RE x 0

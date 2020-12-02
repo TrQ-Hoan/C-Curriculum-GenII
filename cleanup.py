@@ -6,11 +6,11 @@ def main():
         if "in" in dirs:
             with zipfile.ZipFile(root+"/testcases.zip", "w") as zf:
                 i = 1
-                for f in os.listdir(root+'/in'):
+                for f in sorted(os.listdir(root+'/in')):
                     zf.write(root+'/in/'+f, '%d.in'%i)
                     i += 1
                 i = 1
-                for f in os.listdir(root+'/out'):
+                for f in sorted(os.listdir(root+'/out')):
                     zf.write(root+'/out/'+f, '%d.out'%i)
                     i += 1
                 zf.close()

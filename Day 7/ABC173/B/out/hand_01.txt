@@ -1,4 +1,0 @@
-AC x 1
-WA x 0
-TLE x 0
-RE x 0

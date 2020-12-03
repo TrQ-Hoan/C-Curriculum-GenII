@@ -20,6 +20,7 @@ Nếu Phong có thể mua được hết với N đôla thì in ra `Yes` còn n�
 |Input|Output|
 |-|-|
 |11|`Yes`|
+
 Trường hợp này Phong có thể mua 1 chiếc bánh Donut và 1 chiếc bánh Cookie với tổng tiền = 4 + 7 = 11 (đúng bằng số tiền Phong có). 
 
 ---

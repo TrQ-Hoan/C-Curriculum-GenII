@@ -11,6 +11,7 @@ Xếp hạng của Phương trên AtCode là `R`. Cuộc thi tiếp theo đánh 
 
 # Điều kiện
 0 ≤ `R` ≤ 4208
+
 `R` là số nguyên.
 
 # Input 

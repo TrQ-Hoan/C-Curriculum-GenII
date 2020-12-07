@@ -1,16 +1,21 @@
 [C-AxB+C](https://atcoder.jp/contests/abc179/tasks/abc179_c)
-# Problem Statement
-Given is a positive integer *N*. How many tuples (*A*,*B*,*C*) of positive integers satisfy *A*×*B*+*C*=*N*?
+
+# Mô tả
+Cho một số nguyên dương $N$. Có bao nhiêu bộ 3 số nguyên dương ($A$,$B$,$C$) thỏa mãn $A$×$B$+$C$=$N$?
+
 # Constraints
-* 2 ≤ *N* ≤ 10<sup>6</sup>
-* All values in input are integers.
+* 2 ≤ $N$ ≤ $10^{6}$
+* $N$ là số nguyên.
+
 # Input
-Input is given from Standard Input in the following format:
+Input có dạng:
 ```
 N
 ```
+
 # Output
-Print the answer.
+In ra só bộ 3 thỏa mãn.
+
 # Sample
 |Input|Output|
 |-|-|

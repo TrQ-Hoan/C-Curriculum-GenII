@@ -2,6 +2,7 @@
 
 # Mô tả
 Cho một số `N`. Hãy in ra số đó dưới dạng **Hệ Số -2**.
+
 Gọi **S** là sô ở dạng **Hệ Số -2** của `N` sẽ như sau:
 - **S** là chuỗi gồm các số `0` và `1`;
 - Trừ khi **S**=0 thì kí tự đầu tiên của **S** sẽ là `1`;
@@ -27,6 +28,7 @@ Chuỗi **S** thỏa mãn.
 |-9|1011|
 
 Vì (-2)<sup>0</sup> + (-2)<sup>1</sup> + (-2)<sup>3</sup> = 1 + (-2) + (-8) = `N`.
+
 ---------------------------------------
 
 |Input|Output|

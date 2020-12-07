@@ -5,6 +5,7 @@ Phưn Phưn do mải paylak nên đã bỏ qua những ngày ôn thi trên trư�
   
 # Điều kiện
 1 ≤ `a<sub>1<sub>`,`a<sub>2<sub>`,`a<sub>3<sub>` ≤ 100
+
 `a<sub>1<sub>`,`a<sub>2<sub>`,`a<sub>3<sub>` là các số nguyên.
   
 # Input

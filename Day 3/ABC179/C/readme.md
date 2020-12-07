@@ -14,11 +14,18 @@ N
 ```
 
 # Output
-In ra só bộ 3 thỏa mãn.
+In ra số bộ 3 thỏa mãn.
 
 # Sample
 |Input|Output|
 |-|-|
 |3|3|
+
+Ta có 3 bộ 3 số $A$,$B$,$C$ thỏa mãn là (1;1;2),(1;2;1) và (2;1;1).
+
+------------
+
+|Input|Output|
+|-|-|
 |100|473|
 |1000000|13969985|

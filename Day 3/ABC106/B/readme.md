@@ -1,5 +1,4 @@
 [105](https://atcoder.jp/contests/ABC106/tasks/abc106_b)
-rcm cho tăng giới hạn test.
 
 # Mô tả
 105 là số khá kì lạ bởi dù nó là số lẻ những nó vẫn có tận 8 ước. Bây giờ bạn hãy tìm số các số lẻ cũng có 8 ước trong đoạn [1;$N$].

@@ -1,1 +1,1 @@
-[Đề bài](https://atcoder.jp/contests/ARC100/tasks/arc100_a)
+[C - Linear Approximation](https://atcoder.jp/contests/ARC100/tasks/arc100_a)

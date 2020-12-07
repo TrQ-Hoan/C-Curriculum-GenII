@@ -1,0 +1,1 @@
+[C - Iroha's Obsession](https://atcoder.jp/contests/arc058/tasks/arc058_a)

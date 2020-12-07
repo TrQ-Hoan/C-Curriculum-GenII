@@ -10,9 +10,9 @@ Phưn Phưn do mải paylak nên đã bỏ qua những ngày ôn thi trên trư�
   
 # Input
 Input có dạng:
-```
+
 A<sub>1</sub> A<sub>2</sub> A<sub>3</sub>
-```
+
 
 # Output
 1 số duy nhất thỏa mãn.

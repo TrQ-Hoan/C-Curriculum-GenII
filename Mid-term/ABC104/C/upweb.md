@@ -53,7 +53,7 @@ Một cách để giải vấn đề này là Ki3n_m1ddl3 giải được 4 câu
 
 Trường hợp này thì cũng giống như VD1 thôi, chỉ khác là Ki3n_m1ddl3 có mục tiêu là 2000 điểm hoặc hơn. Do đó, chúng ta bắt buộc phải giải được hết cả 5 câu 200 điểm, rồi giải thêm 2 câu 100 điểm nữa là chúng ta sẽ hoàn thành được mục tiêu.
 
-# Ví dụ 3
+### Ví dụ 3
 
 | Input                     | Output |
 | ------------------------- | ------ |

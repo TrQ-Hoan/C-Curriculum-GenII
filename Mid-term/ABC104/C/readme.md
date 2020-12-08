@@ -4,38 +4,38 @@
 
 # Mô tả
 
-Trong một cuộc thi lập trình trên trang ISPOJ cho rất nhiều câu hỏi hay và khó. Mỗi câu hỏi được cho một số điểm riêng dựa trên độ khó của câu hỏi đó. Cụ thể hơn, với số nguyên **_i_** nằm từ **_1_** đến **_D_**, câu hỏi **_p<sub><i>i<i></sub>_** có số điểm là **_100i_**. Tất cả các câu hỏi **_p<sub><i>1<i></sub>_**+ ... + **_p<sub><i>D<i></sub>_** đều là những câu hỏi còn lại có thể làm ở trên ISPOJ.
+Trong một cuộc thi lập trình trên trang ISPOJ cho rất nhiều câu hỏi hay và khó. Mỗi câu hỏi được cho một số điểm riêng dựa trên độ khó của câu hỏi đó. Cụ thể hơn, với số nguyên $i$ nằm từ $1$ đến $D$, câu hỏi $p_{i}$ có số điểm là $100i$. Tất cả các câu hỏi $p_{i}+ ... + p_{D}$ đều là những câu hỏi còn lại có thể làm ở trên ISPOJ.
 
 Mỗi tài khoản trên ISPOJ trong cuộc thi này có một số điểm. Số điểm của tài khoản đó là tổng của 2 loại điểm sau:
 
 - **Main Score**: là điểm mà thí sinh đó giành được từ việc giải được các câu hỏi của cuộc thi.
-- **Perfect Bonuses**: khi mà thí sinh giải được tất cả **các câu hỏi với số điểm là** **_100i_**, họ sẽ nhận được một số điểm thưởng là **_c_**<sub><i>**_i_**<i></sub>, ngoài **main score** mà họ đã giành được (1 ≤ _i_ ≤ D).
+- **Perfect Bonuses**: khi mà thí sinh giải được tất cả **các câu hỏi với số điểm là** $100i$, họ sẽ nhận được một số điểm thưởng là $c_{i}$, ngoài **main score** mà họ đã giành được ($1 ≤ i ≤ D$).
 
-Ki3n_m1ddl3, người mà đã chán với việc đi tìm cờ và lăm le mò sang ISPOJ, chưa giải được bất kì câu hỏi nào. Mục tiêu của hắn là phải đạt được **_G_** điểm hoặc là hơn. Vậy thì ít nhất Ki3n_m1ddl3 phải giải được bao nhiêu câu hỏi thì mới đạt được mục tiêu của hắn?
+Ki3n_m1ddl3, người mà đã chán với việc đi tìm cờ và lăm le mò sang ISPOJ, chưa giải được bất kì câu hỏi nào. Mục tiêu của hắn là phải đạt được $G$ điểm hoặc là hơn. Vậy thì ít nhất Ki3n_m1ddl3 phải giải được bao nhiêu câu hỏi thì mới đạt được mục tiêu của hắn?
 
 # Điều kiện
 
-  - **_1 ≤ D ≤ 10_**
-  - **_1 ≤ p<sub><i>i<i></sub> ≤ 100_**
-  - **_100 ≤ c<sub><i>i<i></sub> ≤ 10<sub><i>6<i></sub>_**
-  - **_100 ≤ G_**
+  - $1 ≤ D ≤ 10$
+  - $1 ≤ p_{i} ≤ 100$
+  - $100 ≤ c_{i}≤ 10^{6}$
+  - $100 ≤ G$
   - Tất cả các giá trị đưa vào đều là số nguyên.
-  - **_c<sub><i>i<i></sub>_** và **_G_** là bội của 100.
-  - Số điểm **_G_** phải là một số điểm khả thi mà có thể thực hiện được theo nguyên tắc của đề.
+  - $c_{i}$ và $G$ là bội của 100.
+  - Số điểm $G$ phải là một số điểm khả thi mà có thể thực hiện được theo nguyên tắc của đề.
 
 # Input
 
 Input được đưa vào dưới dạng sau:
-**_D_**|**_G_**
--|-
-**_p<sub><i>1<i></sub>_**|**_c<sub><i>1<i></sub>_**  
-.|.
-.|.
-**_p<sub><i>D<i></sub>_**|**_c<sub><i>D<i></sub>_**
+|   $D$   |   $G$   |
+| ------- | ------- |
+| $p_{i}$ | $c_{i}$ |  
+|   ...   |   ...   |
+|   ...   |   ...   |
+| $p_{D}$ | $c_{D}$ |
 
 # Output
 
-In ra số bài tối thiểu cần được giải quyết để đạt được hoặc nhiều hơn **_G_** điểm. Chú ý rằng mục tiêu này hoàn toàn có thể đạt được (xem **Điều kiện**).
+In ra số bài tối thiểu cần được giải quyết để đạt được hoặc nhiều hơn $G$ điểm. Chú ý rằng mục tiêu này hoàn toàn có thể đạt được (xem **Điều kiện**).
 
 # Ví dụ 1
 

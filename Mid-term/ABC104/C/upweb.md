@@ -1,8 +1,6 @@
-[C - ALL GREEN](https://atcoder.jp/contests/ABC104/tasks/abc104_c)
-
 # C - ALL GREEN
 
-# Mô tả
+## Mô tả
 
 Trong một cuộc thi lập trình trên trang ISPOJ cho rất nhiều câu hỏi hay và khó. Mỗi câu hỏi được cho một số điểm riêng dựa trên độ khó của câu hỏi đó. Cụ thể hơn, với số nguyên $i$ nằm từ $1$ đến $D$, câu hỏi $p_{i}$ có số điểm là $100i$. Tất cả các câu hỏi $p_{i}+ ... + p_{D}$ đều là những câu hỏi còn lại có thể làm ở trên ISPOJ.
 
@@ -13,7 +11,7 @@ Mỗi tài khoản trên ISPOJ trong cuộc thi này có một số điểm. S�
 
 Ki3n_m1ddl3, người mà đã chán với việc đi tìm cờ và lăm le mò sang ISPOJ, chưa giải được bất kì câu hỏi nào. Mục tiêu của hắn là phải đạt được $G$ điểm hoặc là hơn. Vậy thì ít nhất Ki3n_m1ddl3 phải giải được bao nhiêu câu hỏi thì mới đạt được mục tiêu của hắn?
 
-# Điều kiện
+## Điều kiện
 
   - $1 ≤ D ≤ 10$
   - $1 ≤ p_{i} ≤ 100$
@@ -23,7 +21,7 @@ Ki3n_m1ddl3, người mà đã chán với việc đi tìm cờ và lăm le mò 
   - $c_{i}$ và $G$ là bội của 100.
   - Số điểm $G$ phải là một số điểm khả thi mà có thể thực hiện được theo nguyên tắc của đề.
 
-# Input
+## Input
 
 Input được đưa vào dưới dạng sau:
 |   $D$   |   $G$   |
@@ -33,11 +31,11 @@ Input được đưa vào dưới dạng sau:
 |   ...   |   ...   |
 | $p_{D}$ | $c_{D}$ |
 
-# Output
+## Output
 
 In ra số bài tối thiểu cần được giải quyết để đạt được hoặc nhiều hơn $G$ điểm. Chú ý rằng mục tiêu này hoàn toàn có thể đạt được (xem **Điều kiện**).
 
-# Ví dụ 1
+### Ví dụ 1
 
 | Input                     | Output |
 | ------------------------- | ------ |
@@ -47,7 +45,7 @@ Trong trường hợp này, có 3 câu hỏi 100 điểm và 5 câu hỏi 200 đ
 
 Một cách để giải vấn đề này là Ki3n_m1ddl3 giải được 4 câu 200 điểm và nhận main score là 800 điểm. Tuy nhiên, nếu hắn chỉ cần giải được cả 3 câu 100 điểm thì hắn sẽ nhận thêm 500 điểm perfect bonus ngoài 300 điểm main score, để nhận được tổng là 800 điểm, và hắn đã đạt được mục tiêu với ít câu hỏi cần được làm hơn.
 
-# Ví dụ 2
+### Ví dụ 2
 
 | Input                      | Output |
 | -------------------------- | ------ |
@@ -63,7 +61,7 @@ Trường hợp này thì cũng giống như VD1 thôi, chỉ khác là Ki3n_m1d
 
 Trường hợp này cũng giống VD1, nhưng mục tiêu lần này chỉ có 400 điểm, do vậy ta chỉ cần giải 2 câu 200 điểm là được.
 
-# Ví dụ 4
+### Ví dụ 4
 
 | Input                                                              | Output |
 | ------------------------------------------------------------------ | ------ |

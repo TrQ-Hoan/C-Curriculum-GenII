@@ -1,17 +1,18 @@
 [B-Trapezoid Sum](https://atcoder.jp/contests/abc181/tasks/abc181_b)
 # Problem Statement
-We have a blackboard with nothing written on it. Takahashi will do *N* operations to write integers on it.  
-  
-In the *i*-th operation, he will write each integer from A<sub><i>i</i></sub> through B<sub><i>i</i></sub> once, for a total of B<sub><i>i</i></sub>−A<sub><i>i</i></sub>+1 integers.  
-  
-Find the sum of the integers written on the blackboard after the *N* operations.  
+Wang Hè đang có 1 tấm bảng lớn. Tiếp theo anh ta sẽ tính tổng của *N* dãy số được viết lên.
+
+Với dãy số thứ $i$ thì Hè sẽ viết các số nguyên từ số nguyên A<sub>i</sub> cho đến số nguyên B<sub>i</sub> lên bảng và tính tổng các số đó.
+
+Hỏi tổng của *N* dãy số đó là bao nhiêu?
+
 # Constraints
-* All values in input are integers.
+* Các số nhập và là số nguyên.
 * 1 ≤ *N* ≤ 10<sup><i>5</i></sup>
 * 1≤ A<sub><i>i</i></sub> ≤ B<sub><i>i</i></sub> ≤10<sup><i>6</i></sup>
 
 # Input
-Input is given from Standard Input in the following format:
+Input có dạng:
 ```
 N
 A1 B1
@@ -19,10 +20,18 @@ A1 B1
 AN BN
 ```
 # Output
-Print the sum of the integers written on the blackboard after the *N* operations.
+In ra tổng của N dãy số đó.
+
 # Sample
 |Input|Output|
 |-|-|
 |2<br/>1 3<br/>3 5|18|
+
+Dãy số thứ nhất có 3 số: 1, 2, 3.
+Dãy số thứ 2 có 3 số: 3, 4, 5.
+vậy tổng là: 1+2+3+3+4+5=18.
+
+|Input|Output|
+|-|-|
 |3<br/>11 13<br/>17 47<br/>359 44683|998244353|
 |1<br/>1 1000000|500000500000|

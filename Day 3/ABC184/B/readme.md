@@ -1,37 +1,39 @@
 [B-Quizzes](https://atcoder.jp/contests/abc184/tasks/abc184_b)
 # Problem Statement
-Takahashi will answer *N* quiz questions.  
-  
-Initially, he has X points. Each time he answers a question, he gains 1 point if his answer is correct and loses 1 point if it is incorrect.
-However, there is an exception: when he has 0 points, he loses nothing for answering a question incorrectly.  
-  
-You will be given a string S representing whether Takahashi's answers are correct.  
-  
-If the i-th character of S from the left is o, it means his answer for the i-th question is correct; if that character is x, it means his answer for the *i*-th question is incorrect.  
-  
-How many points will he have in the end?  
+Chuối có *N* câu hỏi cần phải trả lời trong bài kiểm tra Toán Rời Rạc sắp tới. 
+
+Ban đầu anh ta có X điểm. Nếu anh ta trả lời đúng thì sẽ được +1 điểm còn nếu không thì sẽ bị -1 điểm nếu trả lời sai.
+
+Nếu anh ta trả lời sai khi đang có 0 điểm, số điểm sẽ vẫn giữ nguyên mà không bị trừ.
+
+Bạn sẽ được cho 1 string gồm 2 ký tự `x` tương ứng với câu trả lời sai và `o` tương ứng với câu trả lời đúng. 
+
+Hãy tìm số điểm của Chuối sau khi đã trả hết tất cả các câu hỏi?
+
 # Constraints
 * 1 ≤ *N* ≤ 2×10<sup>5<sup/>
 * 0 ≤ *X* ≤ 2×10<sup>5<sup/>
-* S is a string of length N consisting of o and x.
+* S là xâu có độ dài N và chứ các ký tự `x` và `o`.
+  
 # Input
-Input is given from Standard Input in the following format:
+Input có dạng:
 ```
 N X
 S
 ```
 # Output
-Print the number of points Takahashi will have in the end.
+1 số thỏa mãn.
+
 # Sample
 |Input|Output|
 |-----|-----|
 |3 0<br/>xox|0|
 
-  Initially, he has 0 points.\
-He answers the first question incorrectly but loses nothing because he has no point.\
-Then, he answers the second question correctly, gains 1 point, and now has 1 point.\
-Finally, he answers the third question incorrectly, loses 1 point, and now has 0 points.\
-Thus, he has 0 points in the end. We should print 0.
+Ban đầu Chuối có 0 điểm. 
+Sau khi trả lời sai câu 1, Chuối sẽ không bị -1 điểm bởi điểm hiện tại đang là 0 điểm.
+Sau khi trả lời đúng câu 2, Chuối sẽ được +1 điểm nên điểm hiện tại là 1 điểm.
+Cuối cùng, trả lời sai câu 3, Chuối sẽ còn lại 0 điểm vì bị -1 điểm vì trả lời sai.
+Vậy sau cùng, Chuối có 0 điểm.
 <br>
 <br>
 |Input|Output|

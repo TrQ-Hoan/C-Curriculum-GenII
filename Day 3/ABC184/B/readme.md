@@ -30,9 +30,13 @@ S
 |3 0<br/>xox|0|
 
 Ban đầu Chuối có 0 điểm. 
+
 Sau khi trả lời sai câu 1, Chuối sẽ không bị -1 điểm bởi điểm hiện tại đang là 0 điểm.
+
 Sau khi trả lời đúng câu 2, Chuối sẽ được +1 điểm nên điểm hiện tại là 1 điểm.
+
 Cuối cùng, trả lời sai câu 3, Chuối sẽ còn lại 0 điểm vì bị -1 điểm vì trả lời sai.
+
 Vậy sau cùng, Chuối có 0 điểm.
 <br>
 <br>

@@ -28,7 +28,9 @@ In ra tổng của N dãy số đó.
 |2<br/>1 3<br/>3 5|18|
 
 Dãy số thứ nhất có 3 số: 1, 2, 3.
+
 Dãy số thứ 2 có 3 số: 3, 4, 5.
+
 vậy tổng là: 1+2+3+3+4+5=18.
 
 |Input|Output|

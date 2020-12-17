@@ -1,8 +1,8 @@
 [B-Quizzes](https://atcoder.jp/contests/abc184/tasks/abc184_b)
 # Problem Statement
-Chuối có *N* câu hỏi cần phải trả lời trong bài kiểm tra Toán Rời Rạc sắp tới. 
+Chuối có $N$ câu hỏi cần phải trả lời trong bài kiểm tra Toán Rời Rạc sắp tới. 
 
-Ban đầu anh ta có X điểm. Nếu anh ta trả lời đúng thì sẽ được +1 điểm còn nếu không thì sẽ bị -1 điểm nếu trả lời sai.
+Ban đầu anh ta có $X$ điểm. Nếu anh ta trả lời đúng thì sẽ được +1 điểm còn nếu không thì sẽ bị -1 điểm nếu trả lời sai.
 
 Nếu anh ta trả lời sai khi đang có 0 điểm, số điểm sẽ vẫn giữ nguyên mà không bị trừ.
 
@@ -11,8 +11,8 @@ Bạn sẽ được cho 1 string gồm 2 ký tự `x` tương ứng với câu t
 Hãy tìm số điểm của Chuối sau khi đã trả hết tất cả các câu hỏi?
 
 # Constraints
-* 1 ≤ *N* ≤ 2×10<sup>5<sup/>
-* 0 ≤ *X* ≤ 2×10<sup>5<sup/>
+* 1 ≤ $N$ ≤ $2 * 10^{5}$
+* 0 ≤ $X$ ≤ $2 * 10^{5}$
 * S là xâu có độ dài N và chứ các ký tự `x` và `o`.
   
 # Input

@@ -26,7 +26,7 @@ Chuỗi **S** thỏa mãn.
 # Example
 |Input|Output|
 |-|-|
-|-9|1011|
+|-9|`1011`|
 
 Vì (-2)<sup>0</sup> + (-2)<sup>1</sup> + (-2)<sup>3</sup> = 1 + (-2) + (-8) = `N`.
 

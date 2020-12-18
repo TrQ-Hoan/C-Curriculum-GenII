@@ -23,22 +23,33 @@ Hãy xác định xem liệu chiến tranh có nổ ra hay không.
 
 # Điều kiện
 Tất cả các số nhập vào đều là số nguyên.
+
 1 ≤ $N$,$M$ ≤ 100
+
 -100 ≤ $A$ < $B$ ≤ 100
+
 -100 ≤ $a_{i}$,$b_{j}$ ≤ 100
+
 $a_{1}$, $a_{2}$, ..., $a_{N}$ ≠ $A$
+
 $b_{1}$, $b_{2}$, ..., $b_{N}$ ≠ $B$
+
 Các số $a_{i}$ sẽ khác nhau.
+
 Các số $a_{i}$ sẽ khác nhau.
 
 # Input
 Input có dạng:
+
 $M$ $N$ $A$ $B$
+
 $a_{1}$ $a_{2}$ ... $a_{N}$
+
 $b_{1}$ $b_{2}$ ... $b_{N}$
 
 # Output
 Nếu có số Z thỏa mãn thì in ra "No War"
+
 Còn không thì in ra "War"
 
 # Example
@@ -47,8 +58,11 @@ Còn không thì in ra "War"
 |3 2 10 20</br>8 15 13</br>16 22|No War|
 
 Chúng ta sẽ có $Z$=16 sẽ thỏa mãn điều kiện như sau:
+
 +) 10 < 16 ≤ 20
+
 +) 8,15,13 < 16
+
 +) 16,22 ≥ 16
 </br>
 

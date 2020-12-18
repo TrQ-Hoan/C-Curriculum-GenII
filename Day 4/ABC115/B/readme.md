@@ -11,12 +11,16 @@ Hãy tính xem số tiền Phương phải trả cho số hàng đã mua.
 
 # Điều kiện
 2 ≤ $N$ ≤ 100
+
 100 ≤ $a_{i}$ ≤ $10^{4}
+
 $a_{i}$ là số chẵn.
 
 # Input
-Input  co dạng:
+Input có dạng:
+
 $N$
+
 $a_{1}$ $a_{2}$ ... $a_{N}$
 
 # Output
@@ -28,7 +32,7 @@ $a_{1}$ $a_{2}$ ... $a_{N}$
 |3</br>4980 7980 6980|15950|
 </br>
 Số tiền cần trả sẽ là: 4980+7980/2+6980=15950
-
+</br>
 |Input|Output|
 |-|-|
 |4</br>4320 4320 4320 4320|15120|

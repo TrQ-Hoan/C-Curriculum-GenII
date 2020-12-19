@@ -1,23 +1,24 @@
 [C - Collinearity](https://atcoder.jp/contests/abc181/tasks/abc181_c)
 # Problem Statement
 Chúng ta có $N$ điểm trên hệ trục tọa độ Oxy.
-The *i*-th point is at (*x*<sub><i>i</i></sub>,*y*<sub><i>i</i></sub>).
-Is there a triple of distinct points lying on the same line among the *N* points?
+Điểm thứ i sẽ có tọa độ là ($x_{i}$, $y_{i}$).
+Liệu có tồn tại 3 điểm thẳng hàng trong $N$ điểm đó hay không?
+
 # Constraints
-* All values in input are integers.
-* 3 ≤ *N* ≤10<sup>2</sup>
-* |<i>x<sub>i</sub></i>|,|<i>y<sub>i</sub></i>|≤10<sub><i>3</i></sub>
-* If *i*≠*j*, (<i>x<sub>i</sub></i>,<i>y<sub>i</sub></i>)≠(<i>x<sub>j</sub></i>,<i>y<sub>j</sub></i>).
+* Tất cả các giá trị là số nguyên.
+* 3 ≤ $N$ ≤ $10^{2}$
+* |$x_{i}$|,|$y_{i}$| ≤ $10^{3}$
+* If $i$≠$j$, ($x_{i}$, $y_{i}$)≠($x_{j}$, $y_{j}$).
 # Input
-Input is given from Standard Input in the following format:
-```
-N
-x1 y1
+Input có dạng:
+$N$
+$x_{i}$ $y_{i}$
 ⋮
-xN yN
-```
+$x_{N}$ $y_{N}$
+
 # Output
-If there is a triple of distinct points lying on the same line, print Yes; otherwise, print No.
+Nếu có 3 điểm thẳng hàng thì in ra "Yes" còn không thì in ra "No"
+
 # Sample
 |Input|Output|
 |-|-|

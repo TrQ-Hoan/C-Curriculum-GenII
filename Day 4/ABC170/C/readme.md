@@ -15,7 +15,7 @@ Nếu có nhiều số thỏa mãn thì hãy in ra số nhỏ nhất.
 
 # Input
 Input co dạng:
-$X$ $N#
+$X$ $N$
 $a_{1}$ $a_{2}$ ... $a_{N}$
 
 # Output

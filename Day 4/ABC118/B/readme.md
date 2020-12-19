@@ -18,7 +18,7 @@ Tất cả các giá trị đều là số nguyên.
 
 1 ≤ $a_{i_j}$ ≤ $M$
 
-Với mọi i thỏa mãn (1 ≤ i ≤ $N$) thì $a_{i_1}$, $a_{i_2}$, ..., $a_{i_Ki}$ sẽ phải khác nhau.
+Với mọi $i$ thỏa mãn (1 ≤ $i$ ≤ $N$) thì $a_{i_1}$, $a_{i_2}$, ..., $a_{i_Ki}$ sẽ phải khác nhau.
 
 # Input
 Input có dạng:

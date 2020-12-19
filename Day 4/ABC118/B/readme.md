@@ -10,3 +10,7 @@ Vị khách thứ i sẽ thích $K_{i}$ món và các món đó sẽ được li
 Nhiệm vụ của bạn là tìm ra số món ăn mà tất cả những người được khảo sát đều thích.
 
 # Điều kiện
+Tất cả các giá trị đều là số nguyên.
+1 ≤ $N$,$M$ ≤ 30
+1 ≤ $K_{i}$ ≤ $M$
+1 ≤ $K_{ij}$ ≤ $M$

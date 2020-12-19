@@ -37,4 +37,13 @@ $K_{N}$ $a_{N_1}$ $a_{N_2}$... $a_{N_KN}$
 In ra số món ăn mà tất cả mọi người được khả sát đều thích.
 
 # Example
-|Input|
+|Input|Output|
+|-|-|
+|3 4</br>2 1 3</br>3 1 2 3</br>2 3 2|1|
+
+Ở đây, ta thấy tất cả mọi người đều yêu thích 1 món ăn. Đó là món số 3.
+
+|Input|Output|
+|-|-|
+|5 5</br>4 2 3 4 5</br>4 1 3 4 5</br>4 1 2 4 5</br>4 1 2 3 5</br>4 1 2 3 4|0|
+|1 30</br>3 5 10 30|3|

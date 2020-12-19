@@ -1,6 +1,6 @@
 [C - Collinearity](https://atcoder.jp/contests/abc181/tasks/abc181_c)
 # Problem Statement
-We have *N* points on a two-dimensional infinite coordinate plane.
+Chúng ta có $N$ điểm trên hệ trục tọa độ Oxy.
 The *i*-th point is at (*x*<sub><i>i</i></sub>,*y*<sub><i>i</i></sub>).
 Is there a triple of distinct points lying on the same line among the *N* points?
 # Constraints

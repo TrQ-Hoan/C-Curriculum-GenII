@@ -1,25 +1,30 @@
 [C-Step](https://atcoder.jp/contests/abc176/tasks/abc176_C)
 # Problem Statement  
-*N* persons are standing in a row. The height of the i-th person from the front is A<sub>i</sub>.  
+$N$ người đang đứng thành 1 hàng dọc. Người thứ 1 sẽ là người đứng đầu hàng. Mỗi người sẽ có 1 chiều cao là $a_{i}$.
   
-We want to have each person stand on a stool of some heights - at least zero - so that the following condition is satisfied for every person:  
+Chỉ huy muốn rằng mọi người sẽ đứng lên 1 chiếc ghế (có chiều cao ít nhất = 0)  để có thể thỏa mãn đkiện sau:
+
+**Không có người nào đứng trước cao hơn người những người đứng sau. Chiều cao của mỗi người tính thêm cả chiều cao của ghế**
+
+Tìm giá trị nhỏ nhất của tổng chiều cao những chiếc ghế sao cho thỏa mãn điều kiện trên.
   
-Condition: Nobody in front of the person is taller than the person. Here, the height of a person includes the stool.  
-  
-Find the minimum total height of the stools needed to meet this goal.
 # Constraints
-* 1 ≤ *N* ≤ 2×10<sup>5</sup>
-* 1 ≤ A<sub>i</sub>≤ 10<sup>9</sup>
-* All values in input are integers.
+* 1 ≤ $N$ ≤ $2* 10^{5}$
+* 1 ≤ $a_{i}$ ≤ $10^{9}$
+* Tất cả các giá trị nhập vào là số nguyên.
+
 # Input
-Input is given from Standard Input in the following format:
-```
-N
-A1 … AN
-```
+Input có dạng:
+$N$
+$a_{1}$ … $a_{N}$
+
 # Output
-Print the minimum total height of the stools needed to meet the goal.
+In ra số thỏa mãn:
+
+# Example
 |Input|Output|
 |-|-|
 |5<br/>2 1 5 4 3|4|
 |5<br/>3 3 3 3 3|0|
+
+ở Example 1, chúng ta sẽ cần các ghế có độ cao lần lượt là 0,1,0,1,2. Vậy tổng cộng là 4.

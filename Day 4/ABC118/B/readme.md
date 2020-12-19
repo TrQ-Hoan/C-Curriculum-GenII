@@ -11,6 +11,30 @@ Nhiệm vụ của bạn là tìm ra số món ăn mà tất cả những ngư�
 
 # Điều kiện
 Tất cả các giá trị đều là số nguyên.
+
 1 ≤ $N$,$M$ ≤ 30
+
 1 ≤ $K_{i}$ ≤ $M$
-1 ≤ $K_{ij}$ ≤ $M$
+
+1 ≤ $a_{i_j}$ ≤ $M$
+
+Với mọi i thỏa mãn (1 ≤ i ≤ $N$) thì $a_{i_1}$, $a_{i_2}$, ..., $a_{i_Ki}$ sẽ phải khác nhau.
+
+# Input
+Input có dạng:
+
+$N$ $M$
+
+$K_{1}$ $a_{1_1}$ $a_{1_2}$... $a_{1_K1}$
+
+$K_{2}$ $a_{2_1}$ $a_{2_2}$... $a_{2_K2}$
+
+....
+
+$K_{N}$ $a_{N_1}$ $a_{N_2}$... $a_{N_KN}$
+
+# Output
+In ra số món ăn mà tất cả mọi người được khả sát đều thích.
+
+# Example
+|Input|

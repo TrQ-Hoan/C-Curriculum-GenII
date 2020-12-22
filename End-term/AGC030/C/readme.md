@@ -1,0 +1,1 @@
+[C - Coloring Torus](https://atcoder.jp/contests/agc030/tasks/agc030_c)

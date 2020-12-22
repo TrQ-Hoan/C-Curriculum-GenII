@@ -28,9 +28,8 @@ In ra số tiền thỏa mãn.
 |Input|Output|
 |-|-|
 |1000 8</br>1 3 4 5 6 7 8 9|2000|
-</br>
 Phong chỉ thích các số 0 và 2. Do đó số tiền nhỏ nhất Phong trả cho thu ngân sẽ là 2000 dollars.
-
+</br>
 |Input|Output|
 |-|-|
 |9999 1</br>0|9999|

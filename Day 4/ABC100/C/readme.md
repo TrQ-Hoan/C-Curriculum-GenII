@@ -1,7 +1,7 @@
 [* 3 or /2](https://atcoder.jp/contests/ABC100/tasks/abc100_c)
 
 # Mô tả
-Trang có mội dãy số gồm $N$ số nguyên, tương ứng gồm:{ $A_{1}$ $A_{2}$ $A_{3}$ ... $A_{N}$ }
+Nguyễn Hiếu Trang có mội dãy số gồm $N$ số nguyên, tương ứng gồm:{ $A_{1}$ $A_{2}$ $A_{3}$ ... $A_{N}$ }
 
 Trang sẽ chơi 1 trò chơi bằng cách lặp lại hành động sau:
 

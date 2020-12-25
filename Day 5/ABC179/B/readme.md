@@ -1,24 +1,26 @@
 [B - Go to Jail](https://atcoder.jp/contests/abc179/tasks/abc179_b)
-# Problem Statement
-Tak performed the following action *N* times: rolling two dice. The result of the *i*-th roll is D<sub>i,1</sub> and D<sub>i,2</sub>.  
+# Mô tả
+Lươn chơi xóc đĩa và thực hiện hành động tung 2 xúc sắc ***N*** lần. Kết quả của lần tung xúc sắc thứ *i* là D<sub>i,1</sub> và D<sub>i,2</sub>.  
   
-Check if doublets occurred at least three times in a row. Specifically, check if there exists at lease one i such that D<sub>i,1</sub> = D<sub>i,2</sub>, D<sub>i+1,1</sub>=D<sub>i+1,2</sub> and D<sub>i+2,1</sub>=D<sub>i+2,2</sub> hold.  
+Kiểm tra xem liệu Lươn có thể tung được ra 2 xúc sắc giống nhau 3 lần liên tiếp hay không. Nói rõ hơn là hãy xem liệu có tồn tại ít nhất một lần *i* mà D<sub>i,1</sub> = D<sub>i,2</sub>, D<sub>i+1,1</sub>=D<sub>i+1,2</sub> và D<sub>i+2,1</sub>=D<sub>i+2,2</sub> hay không.
   
-# Constraints
+# Điều kiện
 * 3 ≤ *N* ≤ 100
-* 1 ≤D<sub>i,j</sub> ≤ 6
+* 1 ≤ D<sub>i,j</sub> ≤ 6
 * All values in input are integers.
+
 # Input
 ```
-Input is given from Standard Input in the following format:
+Input được đưa vào dưới dạng sau:
 N
 D1,1 D1,2
 ⋮
 DN,1 DN,2
 ```
 # Output
-Print Yes if doublets occurred at least three times in a row. Print No otherwise.
-# Sample
+In ra **Yes** nếu có 3 lần liên tiếp tung được các cặp xúc sắc giống nhau. Không thì in ra **No**.
+
+# Ví dụ
 |Input|Output|
 |-|-|
 |5<br/>1 2<br/>6 6<br/>4 4<br/>3 3<br/>3 2|Yes|

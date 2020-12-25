@@ -36,7 +36,8 @@ azzel</br>apple|Yes
 Input|Output
 -|-
 chokudai</br>redcoder|No
- Không có cách nào có thể biến đổi `chokudai` thành `redcoder` được.
+
+Không có cách nào có thể biến đổi `chokudai` thành `redcoder` được.
 # Ví dụ 3
 Input|Output
 -|-

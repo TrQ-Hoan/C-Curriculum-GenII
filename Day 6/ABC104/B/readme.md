@@ -17,14 +17,29 @@ Nếu ***S*** thoả mãn tất cả các điều kiện trên thì in ra `AC`; 
 Input|Output
 -|-
 AtCoder|AC
+
 Chữ cái đầu tiên là `A`, chữ cái thứ 3 là `C` và tất cả các chữ cái còn lại đều viết thường, vì vậy tất cả điều kiện đều được thoả mãn.
 # Ví dụ 2
 Input|Output
 -|-
 ACoder|WA
+
 Chữ cái thứ 2 không được là `C`.
 # Ví dụ 3
 Input|Output
 -|-
 AcycliC|WA
+
 Chữ cái cuối cùng cũng không được là `C`.
+# Ví dụ 4
+Input|Output
+-|-
+AtCoCo|WA
+
+Ở đây `C` đã xuất hiện 2 lần.
+# Ví dụ 5
+Input|Output
+-|-
+Atcoder|WA
+
+Ở đây thì lại chẳng có `C` nào cả.

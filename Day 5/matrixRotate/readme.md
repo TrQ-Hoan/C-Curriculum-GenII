@@ -1,20 +1,23 @@
 
 Cho một ma trận vuông. Hãy xoay nó ngược chiều kim đồng hồ 1 góc 90 độ mà không sử dụng thêm khoảng trống.\
-Giới hạn như cũ
-Input:\
+Giới hạn như cũ\
+Input:
+
  3\
  1  2  3\
  4  5  6\
  7  8  9
  
-Output:\
+Output:
+
  3  6  9\
  2  5  8\
  1  4  7
  
 Xoay ma trận 1 góc 90 độ ngược chiều kim đồng hồ.
 
-Input:\
+Input:
+
  4\
  1  2  3  4\
  5  6  7  8\

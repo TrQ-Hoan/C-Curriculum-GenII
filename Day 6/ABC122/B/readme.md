@@ -31,4 +31,4 @@ Input|Output
 -|-
 SHINJUKU|0
 
-Giữa các xâu ACGT mà là xâu con của `SHINJUKU`, xâu dài nhất là xâu rỗng.
+Giữa các xâu ACGT mà là xâu con của `SHINJUKU`, xâu dài nhất là `xâu rỗng`.

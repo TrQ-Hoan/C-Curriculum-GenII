@@ -1,4 +1,5 @@
-Given a square matrix, turn it by 90 degrees in anti-clockwise direction without using any extra space.\
+
+Cho một ma trận vuông. Hãy xoay nó ngược chiều kim đồng hồ 1 góc 90 độ mà không sử dụng thêm khoảng trống.\
 Giới hạn như cũ\
 Input:\
  3\
@@ -9,7 +10,8 @@ Output:\
  3  6  9\
  2  5  8\
  1  4  7\
-Rotated the input matrix by 90 degrees in anti-clockwise direction.\
+ 
+Xoay ma trận 1 góc 90 độ ngược chiều kim đồng hồ.\
 \
 Input:\
  4\
@@ -17,6 +19,7 @@ Input:\
  5  6  7  8\
  9 10 11 12\
 13 14 15 16\
+
 Output:\
  4  8 12 16\
  3  7 11 15\

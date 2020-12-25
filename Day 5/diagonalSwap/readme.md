@@ -1,4 +1,4 @@
-Given a square matrix sized n, swap the element of major and minor diagonals. // doi cho duong cheo chinh va phu\
+Cho ma trận cấp n, đổi chỗ đường chéo chính và đường chéo phụ của ma trận đó.
 1 <= n <= 100\
 0 <= matrix[i][j] <= 1e5\
 \

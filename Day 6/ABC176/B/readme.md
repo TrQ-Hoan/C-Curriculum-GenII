@@ -1,19 +1,19 @@
 [B - Multiple of 9](https://atcoder.jp/contests/abc176/tasks/abc176_b)
-# Problem Statement
-An integer *N* is a multiple of 9 if and only if the sum of the digits in the decimal representation of N is a multiple of 9.  
-  
-Determine whether *N* is a multiple of 9.  
-# Constraints
-* 0 ≤ *N* < 10<sup>200000<sup>
-* *N* is an integer.
+# Mô tả
+$N$ là một bội số của 9 khi và chỉ khi tổng các chữ số của $N$ chia hết cho 9.
+
+Xác định xem $N$ có phải là một bội số của 9 hay không.
+# Điều kiện
+* 0 ≤ $N$ < $10^{200000}$.
+* $N$ là một số nguyên.
 # Input
-Input is given from Standard Input in the following format:
+Input được đưa vào dưới dạng sau:
 ```
 N
 ```
 # Output
-If Nis a multiple of 9, print Yes; otherwise, print No.
-# Sample
+Nếu $N$ là một bội số của 9, in ra `Yes`; không thì in ra `No`.
+# Ví dụ
 |Input|Output|
 |-|-|
 |123456789|Yes|

@@ -16,7 +16,7 @@ Input được đưa vào dưới dạng:
 S
 ```
 # Output
-In ra dạng thức số nhiều của từ 'Leo lượn' đó.
+In ra dạng thức số nhiều của từ `Leo lượn` đó.
 # Ví dụ
 |Input|Output|
 |-|-|

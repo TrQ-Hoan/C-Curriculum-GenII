@@ -7,7 +7,7 @@ Cho 2 xâu kí tự $S$ và $T$.
 Ví dụ về xâu con: xxx là một xâu con của yxxxy, nhưng không phải của xxyxx.  
 # Điều kiện
 * Độ dài của $S$ và $T$ ngắn nhất là 1 và dài nhất là 1000.
-* Độ dài của $T$ ít nhất phải bằng $S$.
+* Độ dài của $T$ không dài hơn $S$.
 * $S$ và $T$ chỉ chứa các chữa cái tiếng Anh viết thường.
 # Input
 Input được đưa vào dưới dạng sau:

@@ -9,7 +9,8 @@ Ocschos muốn sơn lại một số tấm thẻ bằng màu đen hoặc trắng
 * 1 ≤ |$S$| ≤ $10^{5}$
 * $S_{i}$ là `0` hoặc `1`.
 # Input
-Input được đưa vào dưới dạng sau:\ 
+Input được đưa vào dưới dạng sau:
+
 $S$
 # Output
 In ra số lượng tấm thẻ cần tô ít nhất để thoả mãn điều kiện Ocschos.

@@ -1,23 +1,23 @@
 [B - Substring](https://atcoder.jp/contests/abc177/tasks/abc177_b)
-# Problem Statement
-Given are two strings S and T.  
+# Mô tả
+Cho 2 xâu kí tự $S$ và $T$.
   
-Let us change some of the characters in S so that T will be a substring of S. At least how many characters do we need to change?  
+Đổi một số kí tự trong $S$ để $T$ trở thành một xâu con của $S$. Cần thay đổi ít nhất bao nhiêu kí tự?
   
-Here, a substring is a consecutive subsequence. For example, xxx is a substring of yxxxy, but not a substring of xxyxx.  
-# Constraints
-* The lengths of S and T are each at least 1 and at most 1000.
-* The length of T is at most that of S. 
-* S and T consist of lowercase English letters.
+Ví dụ về xâu con: xxx là một xâu con của yxxxy, nhưng không phải của xxyxx.  
+# Điều kiện
+* Độ dài của $S$ và $T$ ngắn nhất là 1 và dài nhất là 1000.
+* Độ dài của $T$ ít nhất phải bằng $S$.
+* $S$ và $T$ chỉ chứa các chữa cái tiếng Anh viết thường.
 # Input
-Input is given from Standard Input in the following format:
+Input được đưa vào dưới dạng sau:
 ```
 S
 T
 ```
 # Output
-Print the minimum number of characters in S that need to be changed.
-# Sample
+In ra số lượng tối thiểu các kí tự cần thay đổi trong $S$.
+# Ví dụ
 |Input|Output|
 |-|-|
 |cabacc<br/>abc|1|

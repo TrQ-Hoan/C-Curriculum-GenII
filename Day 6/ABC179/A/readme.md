@@ -1,22 +1,23 @@
 [A - Plural Form](https://atcoder.jp/contests/abc179/tasks/abc179_a)
-# Problem Statement
-In the Kingdom of AtCoder, people use a language called Taknese, which uses lowercase English letters.  
+# Mô tả
+Ở một thế giới gọi là Carkhier, các giống loài ở đây sử dụng một ngôn ngữ được gọi là `Leo lượn` mà chỉ sử dụng các chữ cái tiếng Anh viết thường.
   
-In Taknese, the plural form of a noun is spelled based on the following rules:  
-* If a noun's singular form does not end with s, append s to the end of the singular form.
-* If a noun's singular form ends with s, append es to the end of the singular form.
-You are given the singular form S of a Taknese noun. Output its plural form.
-# Constraints
-* S is a string of length 1 between 1000, inclusive.
-* S contains only lowercase English letters.
+Trong `Leo Lượn`, dạng số nhiều của danh từ được cấu tạo dựa trên quy tắc sau:
+* Nếu danh từ đơn không kết thúc bằng chữ cái s, thêm s vào cuối danh từ đơn đó.
+* Nếu danh từ đơn kết thúc bằng chữ cái s, thêm es vào cuối danh từ đơn đó.
+
+Đưa vào danh từ dạng số ít của danh từ trong `Leo lượn`. Đưa ra dạng số nhiều của nó.
+# Điều kiện
+* $S$ là một chuỗi dài từ 1 đến 1000.
+* $S$ chỉ chứa các chữ cái tiếng Anh viết thường.
 # Input
-Input is given from Standard Input in the following format:
+Input được đưa vào dưới dạng:
 ```
 S
 ```
 # Output
-Print the plural form of the given Taknese word.
-# Sample
+In ra dạng thức số nhiều của từ 'Leo lượn' đó.
+# Ví dụ
 |Input|Output|
 |-|-|
 |apple|apples|

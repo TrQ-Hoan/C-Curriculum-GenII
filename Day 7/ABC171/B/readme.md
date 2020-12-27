@@ -1,5 +1,5 @@
 [B - Mix Juice](https://atcoder.jp/contests/abc171/tasks/abc171_b)
-# Problem Statement
+# Mô tả
 A shop sells N kinds of fruits, Fruit 1,…,N, at prices of p<sub>1</sub>,…,p<sub>N</sub> yen per item, respectively. (Yen is the currency of Japan.)  
 Here, we will choose K kinds of fruits and buy one of each chosen kind. Find the minimum possible total price of those fruits.
 # Constraints

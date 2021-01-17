@@ -11,30 +11,29 @@ int main() {
     long n, m;
     scanf("%lld", & n);
     m = n;
-    long addr = 1, i = 0, j = 0, k = 0;
+    long addr = n*m, i = 0, j = 0, k = 0;
     long * F = nullptr, a[n+5][m+5] = {{0}};
     F = (long * ) malloc(MAX * sizeof(F));
     F[0] = 0;
     F[1] = 1;
-    while (addr <= n * m) {
+    for (int i = 2; i <= n*m; ++i) {
+        F[i] = (F[i - 1] % MOD + F[i - 2]) % MOD;
+    }
+    while (addr > 0) {
         for (; j < m - k; ++j) {
-            if (addr > 1) F[addr] = (F[addr - 1] % MOD + F[addr - 2]) % MOD;
-            a[i][j] = F[addr++];
+            a[i][j] = F[addr--];
         }
         i++; j--;
         for (; i < n - k; ++i) {
-            F[addr] = (F[addr - 1] % MOD + F[addr - 2]) % MOD;
-            a[i][j] = F[addr++];
+            a[i][j] = F[addr--];
         }
         i--; j--;
         for (; j >= k; --j) {
-            F[addr] = (F[addr - 1] % MOD + F[addr - 2]) % MOD;
-            a[i][j] = F[addr++];
+            a[i][j] = F[addr--];
         }
         i--; j++;
         for (; i > k; --i) {
-            F[addr] = (F[addr - 1] % MOD + F[addr - 2]) % MOD;
-            a[i][j] = F[addr++];
+            a[i][j] = F[addr--];
         }
         i++; j++;
         k++;

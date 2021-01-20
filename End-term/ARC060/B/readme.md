@@ -18,10 +18,12 @@ Cho 2 số nguyên $n$ và $s$. Hãy xác định xem liệu có tồn tại s�
 
 # Điều kiện
 1 ≤ $n$,$s$ ≤ $10^{11}$
+
 $n$,$s$ là các số nguyên.
 
 # Input
 Input có dạng:
+
 $n$ $s$
 
 # Output

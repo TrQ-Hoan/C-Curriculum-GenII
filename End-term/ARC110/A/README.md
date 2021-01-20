@@ -24,5 +24,5 @@ $N$
 |3|7|
 |10|39916801|
 
-Ta có $7$ chia cho $2$ dư $1$; $7$ chia cho $3$ dư $1$.
+Ta có $7$ chia cho $2$ dư $1$; $7$ chia cho $3$ dư $1$. $7$ cũng nằm trong [$3$,$10^{13}].
 

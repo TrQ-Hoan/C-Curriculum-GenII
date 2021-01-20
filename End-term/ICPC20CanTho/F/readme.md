@@ -1,31 +1,29 @@
 [Problem F - Final Exam](https://cantho20open.kattis.com/problems/cantho20.finalexam2)
 
-## Descriptions
-The Vietnamese High School graduation exam is in progress! For most Vietnamese high school students, this is their most important exam, as its result not only decides whether they can graduate from high school, but is also used for their university applications.
+## Mô tả
 
-Multiple Choice Test.
-Today, Hanh finished his final exam, Math, which is Hanh’s strongest subject. In this exam, there are **_n_** questions, numbered from **_1_** to **_n_**. Each one is a multiple choice question, with **_4_** answers, **_A_**, **_B_**, **_C_**, and **_D_**. The students have to write the answers on an answer sheet with **_n_** lines, the _**i**-th_ line should contain the answer for the _**i**-th_ question. Each question has only one correct answer, and the student will receive one point if their answer matches the correct one.
+Hôm nay, R3r4ck sẽ làm bài kiểm tra cuối kì của CLB ISP dưới hình thức trắc nghiệm. Do đã master tất cả các bài tập nên anh ta rất tự tin. Bài kiểm tra này có $N$ câu hỏi được đánh số từ $1$ đến $N$, mỗi câu có 4 đáp án và R3r4ck chỉ được chọn 1 trong bốn đáp án $A$ $B$ $C$ $D$. R3r4ck sẽ viết đáp án của $N$ câu trả lời trên $N$ dòng, dòng thứ $i$ sẽ có câu trả lời là $X_{i}$. Mỗi câu hỏi có 1 đáp án đúng và nếu trả lời đúng thì R3r4ck sẽ nhận được 1 điểm.
 
-Hanh started checking his results with his friends confidently. After few minutes, Hanh’s confidence turned into fright: Most of Hanh’s answers are different from his friends’.
+Sau khi hoàn thành bài test, R3r4ck tự tin đi so sánh đáp án để chuẩn bị cười vào mặt những đứa có đáp án sai. Tuy nhiên, cười người lúc trước lúc sau ngu người, anh ta nhận ra hầy hết các đáp án của mình đều khác với các bạn =)))))
 
-Hanh quickly realized that he made a terrible mistake: Hanh wrote the answer for the _**2**nd_ question on the _**1**st_ line of the answer sheet, the answer for the _**3**rd_ question on the _**2**nd_ line, the answer for the _**4**th_ question on the _**3**rd_ line, and so on. Hanh left the _**n**-th_ line of the answer sheet empty, and did not write the answer for the _**1**st_ question anywhere!
+Anh ta sớm nhận ra 1 điều: R3r4ck viết nhầm đáp án của câu $thứ 2$ vào dòng $thứ 1$, đáp án câu $thứ 3$ vào dòng $thứ 2$,... đáp án câu $thứ N$ vào dòng $thứ N-1$. Hạnh bỏ trống dòng $thứ N$ và không viết đáp của câu $thứ 1$.
 
-Please help Hanh check what will be his final score. Given that Hanh is a great Math student, his answers for all **_n_** questions would be correct if they were on the correct line of the answer sheet.
+Hãy check xem với quả đi vào lòng đất của R3r4ck thì anh ta sẽ được bao nhiêu điểm.
 
 ## Input
-The first line of the input contains a single integer **_n_** (**_1 ≤ n ≤ 1000_**) — the number of questions.
+1 ≤ $N$ ≤ 1000
 
-**_n_** lines follow, the _**i**-th_ line contains a single character, **_A_**, **_B_**, **_C_**, or **_D_** — the correct answer for the _**i**-th_ question.
+trên $N$ dòng tiếp theo, dòng thứ $i$ sẽ là đáp án của của câu hỏi thứ $i$.
 
 ## Output
-Print a single integer — Hanh’s final score.
+In ra số điểm mà R3r4ck đạt được.
 
 ## Sample 1
 Input|Output
 -----|------
 4<br>A<br>A<br>A<br>A | 3
 
-Fortunately for Hanh, all **_4_** questions have A as correct answer. So Hanh wrote **_A_** on the first three lines, and left the _**4**-th_ line empty. Hanh’s final score is **_3_**.
+Đáp án của 4 câu hỏi là A A A A. vì R3r4ck bỏ câu cuối và viết nhầm các đáp án trên nên số câu trả lời đúng sẽ là $3$.
 
 ## Sample 2
 Input|Output

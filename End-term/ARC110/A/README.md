@@ -8,10 +8,11 @@ Hãy in ra 1 số nguyên $x$ nằm trong đoạn [$n$,$10^{13}$] sao cho các s
 Nếu có nhiều số thỏa mãn thì một trong các số đó đều là đáp án đúng.
 
 # Điều kiện
-2 ≤ N ≤ 30
+2 ≤ $N$ ≤ 30
 
 # Innput
 Input có dạng:
+
 $N$
 
 # Output

@@ -35,19 +35,7 @@ $t$ đáp án tương ứng với mỗi bộ test.
 # Example
 |Input|Output|
 |-|-|
-|4
-</br>5
-</br>3 1 6 6 2
-</br>4
-</br>1 2 2 1
-</br>3
-</br>2 2 2
-</br>4
-</br>6 3 2 1|
-4
-</br>2
-</br>0
-</br>2|
+|4</br>5</br>3 1 6 6 2</br>4</br>1 2 2 1</br>3</br>2 2 2</br>4/br>6 3 2 1|4</br>2</br>0</br>2|
 
 Với test1 mảng được biến đổi 4 bước như ví dụ ở phần Mô tả.
 

@@ -11,6 +11,7 @@ Với 2 số $b$($b$>1) và $n$($n$>0). Hàm f(b,n) sẽ hoạt động như sau
 Ví dụ:
 
 f(10,87654)=8+7+6+5+4=30
+
 f(100,87654)=8+76+54=138
 
 Cho 2 số nguyên $n$ và $s$. Hãy xác định xem liệu có tồn tại số $b$ sao cho f($b$,$n$)=$s$. Nếu tồn tại thì in ra số $b$ thỏa mãn nhỏ nhất.

@@ -15,24 +15,28 @@ Ví dụ: Cho mảng {3, 1, 6, 6, 2}. Ta biến đổi như sau:
 
 Rén sẽ có thể dừng lại ở bất kì lần nào. Hãy tìm xem Rén tốn ít nhất bao nhiêu bước để có thể tạo ra được mảng mới chỉ bao gồm các phần tử bằng nhau. 
 
-# Điều kiện
-Sẽ có $t$ bộ test (1 ≤ $t$ ≤ 3000). Với mỗi bộ test bao gồm:
+## Điều kiện
+Sẽ có $t$ bộ test ($1$ $≤$ $t$ $≤$ $3000$). Với mỗi bộ test bao gồm:
 
-$n$ số phần tử của mảng (1 ≤ $n$ ≤ 3000).
+$n$ số phần tử của mảng ($1$ $≤$ $n$ $≤$ $3000$).
 
 $a_{1}$ $a_{2}$ ... $a_{n}$ là các phần tử của mảng.
 
-# Input
-Input có dạng: 
-$t$
-$n$
-$a_{1}$ $a_{2}$ ... $a_{n}$
-....
+## Input
+Input có dạng:
 
-# Output
+$t$
+
+$n$
+
+$a_{1}$ $a_{2}$ ... $a_{n}$
+
+...
+
+## Output
 $t$ đáp án tương ứng với mỗi bộ test.
 
-# Example
+## Example
 |Input|Output|
 |-|-|
 |4</br>5</br>3 1 6 6 2</br>4</br>1 2 2 1</br>3</br>2 2 2</br>4</br>6 3 2 1|4</br>2</br>0</br>2|

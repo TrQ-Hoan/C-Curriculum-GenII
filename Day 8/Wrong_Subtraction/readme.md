@@ -10,19 +10,19 @@ Tuy nhiên do ăn quá nhiều tào phớ nên P đã quên cách làm, dẫn đ
 
 Bạn sẽ được cho 1 số $n$ và $k$ lần thực hiện cách trên. Hãy tìm xem sau $k$ lần thực hiện thì số cuối cùng là bao nhiêu.
 
-# Điều kiện
-2 ≤ $n$ ≤ $10^{9}$
+## Điều kiện
+$2$ $≤$ $n$ $≤$ $10^{9}$
 
-1 ≤ $k$ ≤ 50
+$1$ $≤$ $k$ $≤$ $50$
 
-# Input
-Input có dạng:
+## Input
+Input có dạng: \
 $n$ $k$
 
-# Output
+## Output
 1 số thỏa mãn
 
-# Example
+## Example
 |Input|Output|
 |-|-|
 |512 4|50|

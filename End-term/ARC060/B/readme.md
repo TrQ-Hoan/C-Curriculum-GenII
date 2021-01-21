@@ -17,19 +17,19 @@ f(100,87654)=8+76+54=138
 Cho 2 số nguyên $n$ và $s$. Hãy xác định xem liệu có tồn tại số $b$ sao cho f($b$,$n$)=$s$. Nếu tồn tại thì in ra số $b$ thỏa mãn nhỏ nhất.
 
 # Điều kiện
-1 ≤ $n$,$s$ ≤ $10^{11}$
+$1$ $≤$ $n$, $s$ $≤$ $10^{11}$
 
 $n$,$s$ là các số nguyên.
 
-# Input
+## Input
 Input có dạng:
 
 $n$ $s$
 
-# Output
+## Output
 In ra số $b$ thỏa mãn, còn nếu không có thì in ra $-1$.
 
-# Example
+## Example
 |Input|Output|
 |-----|------|
 |87654</br>30|10|

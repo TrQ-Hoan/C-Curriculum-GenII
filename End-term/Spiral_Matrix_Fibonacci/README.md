@@ -10,7 +10,7 @@ Cho số nguyên dương n. Hãy tạo ra ma trận vuông kích thước $n*n$ 
 
 ## Điều kiện
 
-$1 ≤ n ≤ 100$
+$1$ $≤$ $n$ $≤$ $100$
 
 ## Test Case
 

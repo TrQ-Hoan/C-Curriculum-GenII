@@ -6,7 +6,7 @@ Cho 2 số $S$ và $P$. Việc của bạn là tìm xem liệu có cặp số ng
 Nếu có thì in ra $Yes$ còn không thì in ra $No$.
 
 # Điều kiện
-1 ≤ $S$,$P$ ≤ $10^{12}$
+$1$ $≤$ $S$,$P$ $≤$ $10^{12}$
 
 # Input
 Input có dạng:

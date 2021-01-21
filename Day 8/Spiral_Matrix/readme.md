@@ -4,7 +4,7 @@
 Cho 1 số $N$. Hãy ỉn ra ma trận vuông cấp $N$ sao cho các số tự nhiên từ $1$ đến $N^{2}$ được sắp xếp theo vị trí xoắn ốc (check ví dụ).
 
 # Điều kiện
-1 ≤ $n$ ≤ 20
+$1$ $≤$ $n$ $≤$ $100$
 
 # Input
 Input có dạng:

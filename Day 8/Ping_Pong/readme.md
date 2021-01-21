@@ -18,9 +18,9 @@ HK và QH đều là những người có suy nghĩ, vậy nên họ sẽ tính 
 Bạn hãy tính số lần chiến thắng của HK và QH.
 
 # Điều kiện
-$t$ là số bộ test (1 ≤ $t$ ≤ $10^{4}$)
+$t$ là số bộ test ($1$ $≤$ $t$ $≤$ $10^{4}$)
 
-(1 ≤ $x$,$y$ ≤ $10^{6}$)
+($1$ $≤$ $x$,$y$ $≤$ $10^{6}$)
 
 # Input
 Input có dạng:

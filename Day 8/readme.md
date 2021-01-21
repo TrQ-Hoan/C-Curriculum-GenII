@@ -6,4 +6,4 @@
 |  2 | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A)   | Easy  |
 |  3 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix-ii/)    | Med   |
 |  4 | [Ping Pong](https://codeforces.com/problemset/problem/1455/C)       | Med   |
-|  5 | [Sum in String](http://zcode.edu.vn/student/question/CPPSTR08)      |       |
+|  5 | [Sum in String](http://zcode.edu.vn/student/question/CPPSTR08)      | Med   |

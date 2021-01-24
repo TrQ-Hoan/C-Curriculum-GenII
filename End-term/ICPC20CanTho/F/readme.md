@@ -4,7 +4,7 @@
 
 Hôm nay, _R3r4ck_ sẽ làm bài kiểm tra cuối kì của CLB ISP dưới hình thức trắc nghiệm. Do đã master tất cả các bài tập nên anh ta rất tự tin. Bài kiểm tra này có $N$ câu hỏi được đánh số từ $1$ đến $N$, mỗi câu có 4 đáp án và _R3r4ck_ chỉ được chọn 1 trong bốn đáp án $A$ $B$ $C$ $D$. _R3r4ck_ sẽ viết đáp án của $N$ câu trả lời trên $N$ dòng, dòng thứ $i$ sẽ có câu trả lời là $X_{i}$. Mỗi câu hỏi có 1 đáp án đúng và nếu trả lời đúng thì _R3r4ck_ sẽ nhận được 1 điểm.
 
-Sau khi hoàn thành bài test, _R3r4ck_ tự tin đi so sánh đáp án để chuẩn bị cười vào mặt những đứa có đáp án sai. Tuy nhiên, cười người lúc trước lúc sau ngu người, anh ta nhận ra hầy hết các đáp án của mình đều khác với các bạn =)))))
+Vì anh ta đã ôn tập rất kĩ nên đáp án của bài kiểm tra anh ta đã nắm trong lòng bàn tay. Sau đó _R3r4ck_ tự tin đi so sánh đáp án để chuẩn bị cười vào mặt những đứa có đáp án sai. Tuy nhiên, cười người lúc trước lúc sau ngu người, anh ta nhận ra đa phần các đáp án của mình đều khác với các bạn =)))))
 
 Anh ta sớm nhận ra 1 điều: _R3r4ck_ viết nhầm đáp án của câu $thứ 2$ vào dòng $thứ 1$, đáp án câu $thứ$ $3$ vào dòng $thứ$ $2$,... đáp án câu $thứ$ $N$ vào dòng $thứ$ $N-1$. Hạnh bỏ trống dòng $thứ$ $N$ và không viết đáp của câu $thứ$ $1$.
 

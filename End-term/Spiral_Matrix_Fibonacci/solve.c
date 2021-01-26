@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <cstdlib>
+#include <stdlib.h>
 
 #define ull unsigned long long int
 #define ll long long int
@@ -9,10 +9,10 @@
 
 int main() {
     long n, m;
-    scanf("%lld", & n);
+    scanf("%ld", & n);
     m = n;
     long addr = n*m, i = 0, j = 0, k = 0;
-    long * F = nullptr, a[n+5][m+5] = {{0}};
+    long * F = NULL, a[105][105] = {{0}};
     F = (long * ) malloc(MAX * sizeof(F));
     F[0] = 0;
     F[1] = 1;
@@ -40,7 +40,7 @@ int main() {
     }
     for (i = 0; i < n; ++i) {
         for (j = 0; j < m; ++j)
-            printf("%lld ", a[i][j]);
+            printf("%ld ", a[i][j]);
         printf("\n");
     }
     free(F);

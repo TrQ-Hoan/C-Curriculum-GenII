@@ -2,7 +2,7 @@
 
 # Mô tả
 Một mảnh vườn có chiều dài a và chiều rộng là b. Chuối muốn xây một lối đi ngang và dọc qua khu vườn như hình vẽ dưới đây:
-![Mô tả](https://img.atcoder.jp/ghi/27d063746b460f1132b6a99aa535a562.png)
+[Mô tả](https://img.atcoder.jp/ghi/27d063746b460f1132b6a99aa535a562.png)
 
 Hãy tìm diện tích đất không chứa đường đi?
 

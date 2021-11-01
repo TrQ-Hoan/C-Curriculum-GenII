@@ -9,13 +9,13 @@ Hãy tìm diện tích đất không chứa đường đi?
 # Điều kiện 
 +) 2 ≤ a, b ≤ 100
 
-## Input:
+# Input:
 2 số a, b thỏa mãn điều kiện
 
-## Output
+# Output
 Diện tích đất không chứa đường đi
 
-#### Ví dụ
+# Ví dụ
 | Input | Output |
 | ----- | ----- |
 | 2 2 | 1 |
